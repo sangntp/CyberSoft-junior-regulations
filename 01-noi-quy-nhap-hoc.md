@@ -26,7 +26,7 @@
 * **1.3. Nghĩa vụ tài chính:** Hoàn thành 100% học phí (hoặc hoàn tất thủ tục trả góp hợp lệ) trước ngày khai giảng.
 
 > 💡 **Ví dụ minh họa Điều 1 (Khảo sát đầu vào):**  
-> Bé Hoàng (học sinh lớp 6, 11 tuổi) đăng ký học lập trình. Dù theo độ tuổi bé thuộc Tầng 2, nhưng qua bài test đầu vào, bé chưa rành thao tác gõ phím máy tính. Giảng viên và Sales thống nhất tư vấn Phụ huynh cho bé học **Khóa OD1 (Tầng Đệm - Orientation)** hoặc **Khóa K1 (Scratch Basic)** trước 01 khóa để làm quen tư duy thuật toán trực quan, sau đó mới lên **Khóa K10 (Python Basic)** nhằm tránh việc bé bị ngợp kiến thức.
+> Bé Hoàng (học sinh lớp 10, 15 tuổi) đăng ký học lập trình. Dù theo độ tuổi bé thuộc Tầng đệm, nhưng qua bài test đầu vào, bé chưa rành thao tác gõ phím máy tính. Giảng viên và Sales thống nhất tư vấn Phụ huynh cho bé học **Khóa K10 (Tầng 2 - Agent Basic)** hoặc **Khóa K1 (Tầng 1 - Scratch Basic)** trước vài khóa để làm quen tư duy thuật toán trực quan, sau đó mới lên **Khóa OD1 hoặc Tầng 3 (Python Basic) ** nhằm tránh việc bé bị ngợp kiến thức.
 
 ---
 
@@ -44,7 +44,7 @@ Học phí là khoản phí dịch vụ giáo dục đào tạo công nghệ tha
 * **Chi phí loại trừ:** Trừ đi giá trị quà tặng ưu đãi, chi phí trả góp, tiền tài liệu/phần mềm đã cấp phát.
 
 > 💡 **Ví dụ Hoàn phí (Trường hợp Đi du học):**  
-> Phụ huynh đăng ký **Khóa K19 (AI Architect - Tầng 3)** gồm 14 buổi, học phí 7.000.000 VNĐ. Học viên học được 4 buổi thì gia đình có quyết định định cư nước ngoài đột xuất.  
+> Phụ huynh đăng ký **Khóa OD1 (AI Architect - Tầng 2)** gồm 14 buổi, học phí 7.000.000 VNĐ. Học viên học được 4 buổi thì gia đình có quyết định định cư nước ngoài đột xuất.  
 > • Số buổi chưa học: 14 - 4 = 10 buổi.  
 > • Giá trị 10 buổi chưa học: (7.000.000 / 14) × 10 = 5.000.000 VNĐ.  
 > • Số tiền CyberSoft hoàn trả: 80% của 5.000.000 = **4.000.000 VNĐ** *(Sau khi đã trừ các chi phí quà tặng nếu có)*.
@@ -65,14 +65,14 @@ Học phí là khoản phí dịch vụ giáo dục đào tạo công nghệ tha
 * *Lưu ý thay đổi tần suất:* Nếu Học viên đăng ký học tăng cường (ví dụ 2 buổi/tuần) hoặc giãn lịch, Phòng Giáo vụ sẽ tính toán và xác lập lại hạn chót hoàn thành khóa học tỷ lệ thuận với số tuần học thực tế.
 
 > 💡 **Ví dụ Bảo lưu & Khung thời gian Combo:**  
-> • **Tình huống Khóa lẻ:** Học viên đang học **Khóa K1 (Scratch Basic)** gồm 14 tuần (học phí 4.000.000 VNĐ), nghỉ ốm ở tuần thứ 4 (dưới 50%). Học phí 10 tuần còn lại được bảo lưu tối đa 06 tháng để chờ xếp vào lớp K1 tiếp theo.  
-> • **Tình huống Gói Combo:** Phụ huynh đăng ký **Combo 3 Khóa (K1 - K2 - K3)**. Học viên học xong Khóa K1 mất 14 tuần, sau đó nghỉ hè 2 tháng và bận thi học kỳ ở trường phổ thông thêm 1 tháng. Phụ huynh **không cần làm thủ tục bảo lưu**, chỉ cần báo Giáo vụ xếp lớp Khóa K2 khi con sẵn sàng, miễn sao con hoàn thành cả 3 khóa K1, K2, K3 trước mốc **15 tháng**.
+> • **Tình huống Khóa lẻ:** Học viên đang học **Khóa K1 (Scratch Basic)** gồm 12 tuần (học phí 4.000.000 VNĐ), nghỉ ốm ở tuần thứ 4 (dưới 50%). Học phí 8 tuần còn lại được bảo lưu tối đa 06 tháng để chờ xếp vào lớp K1 tiếp theo.  
+> • **Tình huống Gói Combo:** Phụ huynh đăng ký **Combo 3 Khóa (K1 - K2 - K3)**. Học viên học xong Khóa K1 mất 12 tuần, sau đó nghỉ hè 2 tháng và bận thi học kỳ ở trường phổ thông thêm 1 tháng. Phụ huynh **không cần làm thủ tục bảo lưu**, chỉ cần báo Giáo vụ xếp lớp Khóa K2 **khi có lớp phù hợp** đồng thời con cũng sẵn sàng, miễn sao con hoàn thành cả 3 khóa K1, K2, K3 trước mốc **15 tháng**. 
 
 **2.4. Chuyển nhượng học phí**  
 Khoản học phí còn lại có thể chuyển nhượng cho người thân (Anh/Chị/Em ruột, Con ruột). Yêu cầu cung cấp giấy tờ xác minh nhân thân.
 
 > 💡 **Ví dụ Chuyển nhượng:**  
-> Học viên đang học **Khóa K10 (Python Basic)** còn dư học phí 2.000.000 VNĐ nhưng bận lịch thi chuyển cấp không thể tiếp tục. Phụ huynh nộp Giấy khai sinh làm thủ tục chuyển 2.000.000 VNĐ này thành chi phí đóng học **Khóa K1 (Scratch Basic)** cho em trai ruột.
+> Học viên đang học **Khóa K10 (Python Basic)**, học phí còn dư 2.000.000 VNĐ nhưng bận lịch thi chuyển cấp không thể tiếp tục. Phụ huynh nộp Giấy khai sinh làm thủ tục chuyển 2.000.000 VNĐ này thành chi phí đóng học **Khóa K1 (Scratch Basic)** cho em trai ruột.
 
 **2.5. Chuyển cấp độ / Chuyển chương trình học**
 * **Chuyển sang chương trình học phí thấp hơn:** Học phí thừa được bảo lưu cho Khóa tiếp theo, không hoàn tiền mặt.
@@ -93,7 +93,7 @@ Không quy đổi tiền mặt, không hoàn trả, không chuyển nhượng, k
 * **3.3. Chuyển đổi linh hoạt (Offline sang Online):** Trong trường hợp bất khả kháng hoặc theo chỉ đạo từ Cơ quan Nhà nước, lịch học và giá trị học phí không đổi khi chuyển sang học Online.
 
 > 💡 **Ví dụ Điều chuyển lớp (Điều 3):**  
-> Học viên đang học lớp **K10-OFF1** (Python trực tiếp sáng Thứ Bảy) đến buổi thứ 4 thì bị trùng lịch học đội tuyển tại trường. Phụ huynh báo Giáo vụ hỗ trợ chuyển sang lớp **K10-OFF2** (chiều Chủ Nhật) hoặc **K10-ONL1** (Online tối Thứ Tư). Do lớp chưa quá 50% số buổi, Giáo vụ tiến hành điều chuyển ngay trong tuần mà không mất phí.
+> Học viên đang học lớp **K10-01** (Python trực tiếp sáng Thứ Bảy) đến buổi thứ 4 thì bị trùng lịch học đội tuyển tại trường. Phụ huynh báo Giáo vụ hỗ trợ chuyển sang lớp **K10-O2** (chiều Chủ Nhật) hoặc **K10-03** (Online tối Thứ Tư). Do lớp chưa quá 50% số buổi và so sánh lượng kiến thức là phù hợp, Giáo vụ tiến hành điều chuyển ngay trong tuần mà không mất phí.
 
 ---
 
