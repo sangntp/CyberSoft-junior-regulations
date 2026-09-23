@@ -7,114 +7,71 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="Nội quy nhập học và Hướng dẫn thực hiện - CyberSoft Junior">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-
-    <!-- Theme Docsify Vue -->
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-
-    <!-- Tùy chỉnh CSS chuẩn Brand CyberSoft Junior -->
     <style>
         :root {
             --theme-color: #f37021;
-            /* Cam CyberSoft */
+            /* Cam nhận diện CyberSoft */
             --primary-navy: #142850;
-            /* Navy CyberSoft */
         }
 
-        /* Sidebar & Menu */
+        /* TĂNG KÍCH THƯỚC FONT CHỮ 10-15% & GIÃN DÒNG */
+        body {
+            font-size: 17px !important;
+            line-height: 1.75 !important;
+            color: #2c3e50;
+        }
+
         .sidebar {
-            background-color: #fcfcfc;
-            border-right: 1px solid #eee;
-            font-size: 14.5px;
+            font-size: 16px !important;
+            background-color: #fafbfc;
         }
 
-        .sidebar-nav strong {
+        .markdown-section {
+            font-size: 17px !important;
+            line-height: 1.75 !important;
+            max-width: 950px;
+            padding: 30px 25px 40px;
+        }
+
+        .markdown-section p,
+        .markdown-section ul,
+        .markdown-section ol {
+            font-size: 17px !important;
+            line-height: 1.75 !important;
+        }
+
+        .markdown-section h1 {
+            font-size: 28px !important;
             color: var(--primary-navy);
-            text-transform: uppercase;
-            font-size: 13px;
         }
 
-        /* Executive Highlight Card */
+        .markdown-section h2 {
+            font-size: 23px !important;
+            color: var(--theme-color);
+        }
+
+        .markdown-section h3 {
+            font-size: 19px !important;
+            color: var(--primary-navy);
+        }
+
+        /* Hộp Callout / Highlight */
         .highlight-box {
             background: #fff8f3;
             border-left: 5px solid #f37021;
             padding: 16px 20px;
-            margin: 20px 0;
+            margin: 22px 0;
             border-radius: 4px;
-            box-shadow: 0 2px 8px rgba(243, 112, 33, 0.08);
         }
 
-        .highlight-box h3 {
-            margin-top: 0;
-            color: #f37021;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-
-        /* Accordion Style */
-        details {
-            background: #ffffff;
-            border: 1px solid #e2e8f0;
-            border-radius: 6px;
-            margin-bottom: 12px;
-            padding: 10px 16px;
-            transition: all 0.2s ease;
-        }
-
-        details[open] {
-            border-color: #f37021;
-            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
-        }
-
-        summary {
-            font-weight: 600;
-            font-size: 16px;
-            color: var(--primary-navy);
-            cursor: pointer;
-            outline: none;
-            padding: 6px 0;
-        }
-
-        summary:hover {
-            color: #f37021;
-        }
-
-        /* Role Badge */
-        .role-tag {
-            display: inline-block;
-            padding: 2px 8px;
-            border-radius: 12px;
-            font-size: 12px;
-            font-weight: bold;
-            margin-right: 4px;
-        }
-
-        .tag-parent {
-            background: #e3f2fd;
-            color: #1976d2;
-        }
-
-        .tag-student {
-            background: #e8f5e9;
-            color: #388e3c;
-        }
-
-        .tag-mentor {
-            background: #fce4ec;
-            color: #c2185b;
-        }
-
-        .tag-ops {
-            background: #fff3e0;
-            color: #f57c00;
-        }
-
-        /* Bảng hiển thị */
+        /* Bảng biểu */
         table {
             display: table !important;
             width: 100%;
             border-collapse: collapse;
-            margin: 16px 0;
+            font-size: 16px !important;
+            margin: 20px 0;
         }
 
         th {
@@ -132,7 +89,7 @@
             name: 'CyberSoft Junior Regulations',
             repo: '',
             loadSidebar: true,
-            subMaxLevel: 2,
+            subMaxLevel: 3,
             auto2top: true,
             search: {
                 placeholder: 'Tìm kiếm quy định...',

@@ -12,7 +12,7 @@
   <ol>
     <li><strong>Chính sách Học phí (Điều 2.2):</strong> CyberSoft áp dụng nguyên tắc <strong>KHÔNG HOÀN HỌC PHÍ</strong> sau khi đăng ký. Ngoại lệ chỉ áp dụng khi Học viên đi du học/định cư (hoàn 80% học phí các buổi chưa diễn ra) hoặc lỗi hoãn lớp quá 3 tháng từ trung tâm.</li>
     <li><strong>Quỹ thời gian Gói Combo (Điều 2.3):</strong> Các gói lộ trình Combo (3, 6, 9 khóa) không áp dụng bảo lưu lẻ từng khóa mà áp dụng <em>Thời hạn tối đa hoàn thành</em> (Ví dụ: Combo 3 khóa hoàn thành trong tối đa 15 tháng).</li>
-    <li><strong>Chuyên cần & Học bù Tutor (Điều 6):</strong> Tham gia &ge; 80% số buổi để đủ điều kiện tốt nghiệp. Nghỉ có phép (báo trước &ge; 2 tiếng) được hỗ trợ tối đa 03 buổi học bù Tutor 1:1 miễn phí (30 - 60 phút/buổi).</li>
+    <li><strong>Chuyên cần & Học bù Tutor (Điều 6):</strong> Tham gia ≥ 80% số buổi để đủ điều kiện tốt nghiệp. Nghỉ có phép (báo trước ≥ 2 tiếng) được hỗ trợ tối đa 03 buổi học bù Tutor 1:1 miễn phí (30 - 60 phút/buổi).</li>
     <li><strong>Thời hạn Tài khoản LMS & AI API (Điều 11):</strong> Tài khoản học tập LMS sẽ tự động thu hồi sau <strong>07 ngày</strong> kể từ ngày bế giảng khóa học để bảo trì tài nguyên. Hạn mức AI API được trung tâm tài trợ trọn gói trên lớp.</li>
     <li><strong>Văn hóa Tôn trọng & Đón trả (Điều 5 & Điều 17):</strong> Nghiêm cấm mọi hành vi trêu chọc sản phẩm bạn bè (chống Cyberbullying); phụ huynh đón con đúng giờ và khai báo người đón ủy quyền để đảm bảo an toàn.</li>
   </ol>
@@ -30,6 +30,8 @@
 
 ---
 
+<span id="hoan-phi"></span>
+<span id="bao-luu"></span>
 ### 2. QUY ĐỊNH VỀ HỌC PHÍ & CÁC TÌNH HUỐNG THỰC TẾ
 **2.1. Quy định chung**  
 Học phí là khoản phí dịch vụ giáo dục đào tạo công nghệ thanh toán theo lộ trình đã thống nhất. Phụ huynh/Học viên xác nhận đã tìm hiểu kỹ về khung chương trình, cơ sở vật chất, trang thiết bị máy tính, phần mềm và dịch vụ hỗ trợ học tập trước khi đăng ký.
@@ -43,9 +45,9 @@ Học phí là khoản phí dịch vụ giáo dục đào tạo công nghệ tha
 
 > 💡 **Ví dụ Hoàn phí (Trường hợp Đi du học):**  
 > Phụ huynh đăng ký **Khóa K19 (AI Architect - Tầng 3)** gồm 14 buổi, học phí 7.000.000 VNĐ. Học viên học được 4 buổi thì gia đình có quyết định định cư nước ngoài đột xuất.  
-> - Số buổi chưa học: $14 - 4 = 10$ buổi.  
-> - Giá trị 10 buổi chưa học: $(7.000.000 / 14) \times 10 = 5.000.000\text{ VNĐ}$.  
-> - Số tiền CyberSoft hoàn trả: $80\% \text{ của } 5.000.000 = \mathbf{4.000.000\text{ VNĐ}}$ *(Sau khi đã trừ các chi phí quà tặng nếu có)*.
+> • Số buổi chưa học: 14 - 4 = 10 buổi.  
+> • Giá trị 10 buổi chưa học: (7.000.000 / 14) × 10 = 5.000.000 VNĐ.  
+> • Số tiền CyberSoft hoàn trả: 80% của 5.000.000 = **4.000.000 VNĐ** *(Sau khi đã trừ các chi phí quà tặng nếu có)*.
 
 **2.3. Bảo lưu học phí**
 * **2.3.1. Đăng ký Khóa lẻ:** Lớp học chưa diễn ra quá 50% tổng số buổi; chỉ bảo lưu giá trị các buổi học còn lại; thông báo trước 48 giờ làm việc cho Giáo vụ; thời hạn tối đa 06 tháng; chỉ làm thủ tục bảo lưu 01 lần duy nhất.
@@ -63,8 +65,8 @@ Học phí là khoản phí dịch vụ giáo dục đào tạo công nghệ tha
 * *Lưu ý thay đổi tần suất:* Nếu Học viên đăng ký học tăng cường (ví dụ 2 buổi/tuần) hoặc giãn lịch, Phòng Giáo vụ sẽ tính toán và xác lập lại hạn chót hoàn thành khóa học tỷ lệ thuận với số tuần học thực tế.
 
 > 💡 **Ví dụ Bảo lưu & Khung thời gian Combo:**  
-> * **Tình huống Khóa lẻ:** Học viên đang học **Khóa K1 (Scratch Basic)** gồm 14 tuần (học phí 4.000.000 VNĐ), nghỉ ốm ở tuần thứ 4 (dưới 50%). Học phí 10 tuần còn lại được bảo lưu tối đa 06 tháng để chờ xếp vào lớp K1 tiếp theo.  
-> * **Tình huống Gói Combo:** Phụ huynh đăng ký **Combo 3 Khóa (K1 - K2 - K3)**. Học viên học xong Khóa K1 mất 14 tuần, sau đó nghỉ hè 2 tháng và bận thi học kỳ ở trường phổ thông thêm 1 tháng. Phụ huynh **không cần làm thủ tục bảo lưu**, chỉ cần báo Giáo vụ xếp lớp Khóa K2 khi con sẵn sàng, miễn sao con hoàn thành cả 3 khóa K1, K2, K3 trước mốc **15 tháng**.
+> • **Tình huống Khóa lẻ:** Học viên đang học **Khóa K1 (Scratch Basic)** gồm 14 tuần (học phí 4.000.000 VNĐ), nghỉ ốm ở tuần thứ 4 (dưới 50%). Học phí 10 tuần còn lại được bảo lưu tối đa 06 tháng để chờ xếp vào lớp K1 tiếp theo.  
+> • **Tình huống Gói Combo:** Phụ huynh đăng ký **Combo 3 Khóa (K1 - K2 - K3)**. Học viên học xong Khóa K1 mất 14 tuần, sau đó nghỉ hè 2 tháng và bận thi học kỳ ở trường phổ thông thêm 1 tháng. Phụ huynh **không cần làm thủ tục bảo lưu**, chỉ cần báo Giáo vụ xếp lớp Khóa K2 khi con sẵn sàng, miễn sao con hoàn thành cả 3 khóa K1, K2, K3 trước mốc **15 tháng**.
 
 **2.4. Chuyển nhượng học phí**  
 Khoản học phí còn lại có thể chuyển nhượng cho người thân (Anh/Chị/Em ruột, Con ruột). Yêu cầu cung cấp giấy tờ xác minh nhân thân.
@@ -96,8 +98,8 @@ Không quy đổi tiền mặt, không hoàn trả, không chuyển nhượng, k
 ---
 
 ### 4. QUY ĐỊNH VƯỢT KHÓA, TẦNG (JUMP LEVEL)
-* **4.1. Điều kiện chuyên môn:** Giảng viên/Mentor đề xuất; Toàn bộ Capstone/sản phẩm cuối khóa $\ge 90/100$; Bài test vượt cấp $\ge 90\%$.
-* **4.2. Điều kiện vận hành:** Tỷ lệ tham gia $\ge 80\%$; Hoàn thành bài tập $\ge 90\%$; Khoảng cách 02 lần xét vượt lớp $\ge 06$ tháng; Có sự chấp thuận của Giáo vụ và Trưởng bộ phận Đào tạo. *(Lưu ý: Nếu vượt lớp thành công giữa lộ trình, Phụ huynh sẽ đóng bổ sung mức học phí chênh lệch của các khóa cao hơn tiếp theo).*
+* **4.1. Điều kiện chuyên môn:** Giảng viên/Mentor đề xuất; Toàn bộ Capstone/sản phẩm cuối khóa ≥ 90/100; Bài test vượt cấp ≥ 90%.
+* **4.2. Điều kiện vận hành:** Tỷ lệ tham gia ≥ 80%; Hoàn thành bài tập ≥ 90%; Khoảng cách 02 lần xét vượt lớp ≥ 06 tháng; Có sự chấp thuận của Giáo vụ và Trưởng bộ phận Đào tạo. *(Lưu ý: Nếu vượt lớp thành công giữa lộ trình, Phụ huynh sẽ đóng bổ sung mức học phí chênh lệch của các khóa cao hơn tiếp theo).*
 
 > 💡 **Ví dụ Nhảy lớp (Điều 4):**  
 > Học viên xuất sắc hoàn thành **Khóa K1** với điểm đồ án 95/100 và đạt 92% bài kiểm tra phân loại. Hội đồng Học vụ xét duyệt cho con nhảy cóc qua Khóa K2 để vào thẳng **Khóa K3**. Phụ huynh chỉ cần thanh toán phần chênh lệch học phí giữa K3 và K2 (nếu có theo biểu phí ban hành).
@@ -115,11 +117,12 @@ Không quy đổi tiền mặt, không hoàn trả, không chuyển nhượng, k
 
 > 💡 **Ví dụ Kỷ luật lớp học (Điều 5):**  
 > Trong giờ học **Khóa K11 (Game Python)**, học viên lén mở tab chơi game web và bình luận chê bai sản phẩm đồ án của bạn cùng bàn trên nhóm chat lớp. Giảng viên thực hiện:  
-> - *Bước 1:* Yêu cầu học viên tắt tab game và nhắc nhở riêng cuối giờ về việc tôn trọng sản phẩm của bạn.  
-> - *Bước 2:* Nếu buổi sau tiếp tục tái phạm, Giáo vụ lập biên bản gửi Phụ huynh để gia đình phối hợp chấn chỉnh.
+> • *Bước 1:* Yêu cầu học viên tắt tab game và nhắc nhở riêng cuối giờ về việc tôn trọng sản phẩm của bạn.  
+> • *Bước 2:* Nếu buổi sau tiếp tục tái phạm, Giáo vụ lập biên bản gửi Phụ huynh để gia đình phối hợp chấn chỉnh.
 
 ---
 
+<span id="hoc-bu"></span>
 ### 6. ĐIỂM DANH VÀ HỌC BÙ (TUTOR / MAKE-UP)
 * **6.1. Xin phép vắng:** Báo trước tối thiểu 02 tiếng trước giờ vào lớp. Nghỉ không báo là vắng không lý do.
 * **6.2. Học bù:** Cứ 01-02 buổi vắng có lý do được hỗ trợ 01 buổi học bù. Tối đa **03 buổi bù / 01 Khóa**. Thời lượng Tutor bù kiến thức: 30 - 60 phút/buổi.
@@ -141,15 +144,15 @@ Không quy đổi tiền mặt, không hoàn trả, không chuyển nhượng, k
 
 ### 8. ĐIỀU KIỆN TỐT NGHIỆP VÀ LÊN CẤP ĐỘ
 Học viên được công nhận hoàn thành khóa học khi đạt đủ 3 tiêu chuẩn:
-1. Tham dự lớp $\ge 80\%$ tổng thời lượng.
-2. Hoàn thành bài tập Lab $\ge 80\%$.
+1. Tham dự lớp ≥ 80% tổng thời lượng.
+2. Hoàn thành bài tập Lab ≥ 80%.
 3. Điểm Dự án Cuối Khóa đạt từ **60/100 điểm** trở lên theo Rubric đánh giá.
 
 ---
 
 ### 9. CHÍNH SÁCH HỖ TRỢ HỌC LẠI (RETAKE POLICY)
-* **9.1. Hỗ trợ 100% (Miễn phí):** Áp dụng khi Chuyên cần $\ge 80\%$, bài tập $\ge 80\%$, thái độ tốt nhưng kết quả Dự án chưa đạt (< 60 điểm). Đăng ký trong vòng 01 tuần sau bế giảng, học lại tối đa 2 buổi chính thức hoặc trọn khóa kế tiếp theo chỉ định chuyên môn.
-* **9.2. Hỗ trợ 50% học phí:** Áp dụng khi Chuyên cần $\ge 80\%$ nhưng hoàn thành bài tập dưới 80% hoặc thái độ chưa nghiêm túc dẫn đến không đạt chuẩn đầu ra.
+* **9.1. Hỗ trợ 100% (Miễn phí):** Áp dụng khi Chuyên cần ≥ 80%, bài tập ≥ 80%, thái độ tốt nhưng kết quả Dự án chưa đạt (< 60 điểm). Đăng ký trong vòng 01 tuần sau bế giảng, học lại tối đa 2 buổi chính thức hoặc trọn khóa kế tiếp theo chỉ định chuyên môn.
+* **9.2. Hỗ trợ 50% học phí:** Áp dụng khi Chuyên cần ≥ 80% nhưng hoàn thành bài tập dưới 80% hoặc thái độ chưa nghiêm túc dẫn đến không đạt chuẩn đầu ra.
 * *(Lưu ý: Suất học lại kích hoạt trong 30 ngày đối với suất miễn phí hoặc 60 ngày đối với suất 50%. Mỗi Khóa chỉ xét 01 lần duy nhất).*
 
 > 💡 **Ví dụ Học lại Retake (Điều 9):**  
@@ -164,6 +167,7 @@ Học viên được công nhận hoàn thành khóa học khi đạt đủ 3 ti
 
 ---
 
+<span id="thu-hoi-lms"></span>
 ### 11. QUY ĐỊNH VỀ TÀI SẢN KỸ THUẬT SỐ VÀ TÀI KHOẢN HỌC TẬP
 * **11.1. Quản lý tài khoản:** Học viên/Phụ huynh tự bảo mật thông tin đăng nhập LMS, Scratch, GitHub, Replit... CyberSoft không chịu trách nhiệm nếu mất mát dữ liệu do chia sẻ cho bên thứ ba.
 * **11.2. Hạn mức tài nguyên & AI API (Dành riêng cho Tầng 2 & Tầng 3):** Đối với các khóa như **K10 đến K18 (Python/Web)** và **K19+ (AI Architect)** cần dùng API OpenAI, Firebase... CyberSoft tài trợ hạn mức học tập trên lớp. Nghiêm cấm xuất API Key ra ngoài sử dụng mục đích cá nhân.
@@ -206,6 +210,7 @@ Học viên được công nhận hoàn thành khóa học khi đạt đủ 3 ti
 
 ---
 
+<span id="don-tra"></span>
 ### 17. AN TOÀN, SỨC KHỎE VÀ ĐÓN TRẢ HỌC VIÊN
 * **17.1. Đón/trả học viên:** Phụ huynh không đưa trẻ đến quá sớm (> 30 phút) và đón trẻ quá muộn (> 20 phút) so với giờ học để đảm bảo an toàn quản lý.
 * **17.2. Ủy quyền đón trẻ:** Đăng ký trước thông tin người được ủy quyền đón trẻ qua Zalo lớp. Giáo vụ có quyền từ chối giao trẻ cho người lạ nếu không có xác nhận từ Phụ huynh.
