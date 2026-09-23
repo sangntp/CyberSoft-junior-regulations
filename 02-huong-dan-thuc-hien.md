@@ -9,7 +9,10 @@
 
 * **Bước 1: Tư vấn lộ trình & Khảo sát đầu vào (Trạng thái L2 ➔ L3A)**
   * Tìm hiểu độ tuổi, nhu cầu và thiết bị của bé.
-  * Hướng dẫn bé tham gia bài khảo sát logic hoặc buổi học Trải nghiệm (Trial 60p) để Giảng viên đánh giá đúng Tầng (Cadet - Agent - Architect).
+  * Hướng dẫn bé tham gia bài khảo sát logic hoặc buổi học Trải nghiệm (Trial 60p) để Giảng viên đánh giá đúng Tầng:
+    * Học sinh tiểu học: Tầng 1 - Cadet (Scratch từ K1 đến K9).
+    * Học sinh THCS: Tầng 2 - Agent (Python từ K10 đến K18).
+    * Học sinh lớn tuổi (Lớp 9, 10 chưa có nền tảng): Khóa OD1 (Tầng đệm - FastTrack).
 * **Bước 2: Hướng dẫn Phụ huynh tiếp cận Nội quy (Cơ chế Gatekeeper - Trạng thái L4A)**
   * Sau khi chốt học phí, Sales **TUYỆT ĐỐI KHÔNG gửi trực tiếp Số tài khoản ngân hàng** vào khung chat Zalo/Messenger.
   * Sales gửi Link xác nhận thông tin & cam kết: `https://junior.cybersoft.edu.vn/xac-nhan-nhap-hoc?phone=[SĐT_PH]`.
@@ -23,7 +26,7 @@
   * Kiểm tra Phụ huynh đã có thao tác bấm xác nhận trên hệ thống Web (hoặc đã có chữ ký sống trên phiếu giấy).
   * Nhận ủy nhiệm chi / bill chuyển khoản hoặc phiếu thu tiền mặt. Cập nhật trạng thái lead lên CRM thành **L5 (Đã thanh toán)**.
 * **Bước 5: Lập Handover Form bàn giao Giáo vụ (Trạng thái L5.1 - SLA < 2 giờ làm việc)**
-  * Điền đầy đủ Phiếu bàn giao học viên (Handover Form) gửi sang phòng Giáo vụ: Họ tên bé, năm sinh, phụ huynh, SĐT, hình thức học (Off/Onl), mã lớp, tình trạng máy tính ở nhà và đính kèm bằng chứng đã xác nhận nội quy.
+  * Điền đầy đủ Phiếu bàn giao học viên (Handover Form) gửi sang phòng Giáo vụ: Họ tên bé, năm sinh, phụ huynh, SĐT, mã lớp (Ví dụ: `JUNIOR K1 - 01` hoặc `AGENT K10 - 01`), tình trạng máy tính ở nhà và đính kèm bằng chứng đã xác nhận nội quy.
 
 ---
 
@@ -37,7 +40,7 @@
   * Đọc kỹ **5 Điểm Cốt Lõi**:
     1. Chính sách Không hoàn học phí sau khi đăng ký (Điều 2.2).
     2. Quỹ thời gian hoàn thành gói Combo (Điều 2.3).
-    3. Tiêu chuẩn chuyên cần $\ge 80\%$ và quy chế học bù tối đa 3 buổi/khóa (Điều 6).
+    3. Tiêu chuẩn chuyên cần ≥ 80% và quy chế học bù tối đa 3 buổi/khóa (Điều 6).
     4. Thời hạn đóng tài khoản LMS sau 7 ngày bế giảng (Điều 11.3).
     5. Quy định đưa đón trẻ đúng giờ và an toàn y tế (Điều 17).
   * Tích chọn ô: *"Tôi đã đọc và đồng ý"* ➔ Bấm nút xác nhận.
@@ -59,22 +62,22 @@
   * Tiếp nhận Handover Form từ Sales; kiểm tra tính hợp lệ của thông tin học viên và bằng chứng cam kết nội quy.
   * Nếu hồ sơ chưa có xác nhận nội quy, Giáo vụ yêu cầu Sales bổ sung trước khi tiến hành xếp lớp.
 * **Bước 2: Xếp lớp trên CRM/LMS & Tạo kênh liên lạc (Trạng thái L5.2)**
-  * Phân bổ học viên vào đúng mã lớp theo độ tuổi và cấp độ (Tầng 1 / Tầng 2 / Tầng 3).
+  * Phân bổ học viên vào đúng mã lớp theo chuẩn danh xưng: `JUNIOR K1 - 01`, `AGENT K10 - 01` hoặc `FASTTRACK OD1 - 01`.
   * Khởi tạo tài khoản LMS cho học viên và phụ huynh.
   * Tạo nhóm Zalo lớp chính thức (Bao gồm: Giáo vụ cơ sở, Giảng viên chính, Mentor và các Phụ huynh).
-* **Bước 3: Gửi Welcome Kit & Hướng dẫn trước khai giảng (SLA: Trước khai giảng $\ge 24$ giờ)**
-  * Gửi tin nhắn chào mừng, lịch học chi tiết, link Zoom/phòng học cơ sở.
+* **Bước 3: Gửi Welcome Kit & Hướng dẫn trước khai giảng (SLA: Trước khai giảng ≥ 24 giờ)**
+  * Gửi tin nhắn chào mừng, lịch học chi tiết, số phòng học tại cơ sở hoặc link trực tuyến.
   * Đính kèm lại đường link Nội quy nhập học để Phụ huynh lưu trữ: `https://sangntp.github.io/CyberSoft-junior-regulations/`.
-  * Hướng dẫn Phụ huynh cài đặt trước phần mềm (Scratch/Python) đối với lớp Online hoặc dặn dò đồ dùng đối với lớp Offline.
+  * Hướng dẫn Phụ huynh cài đặt phần mềm (Scratch/Python) hoặc dặn dò đồ dùng học tập.
 * **Bước 4: Giám sát chuyên cần & Điều phối học bù Tutor**
   * Theo dõi điểm danh realtime trên LMS từ Giảng viên.
-  * Tiếp nhận tin báo vắng có phép của Phụ huynh (trước giờ học $\ge 2$ tiếng).
+  * Tiếp nhận tin báo vắng có phép của Phụ huynh (trước giờ học ≥ 2 tiếng).
   * Điều phối lịch học bù Tutor 1:1 cho học viên (tối đa 3 buổi/khóa theo Điều 6), đảm bảo con không bị hổng kiến thức.
 * **Bước 5: Xử lý bảo lưu, chuyển lớp & nhảy cấp**
   * Chuyển lớp: Kiểm tra điều kiện lớp cũ chưa quá 50% số buổi (Điều 3).
-  * Gói Combo: Đối chiếu thời hạn tối đa theo Bảng quỹ thời gian (Điều 2.3), nhắc nhở gia đình lịch học các khóa tiếp theo.
+  * Gói Combo: Đối chiếu thời hạn tối đa theo Bảng quỹ thời gian (Điều 2.3), thông báo Phụ huynh lịch học các khóa tiếp theo khi có lớp phù hợp.
 * **Bước 6: Thu hồi tài khoản LMS sau bế giảng (SLA: Đúng 07 ngày sau buổi cuối)**
-  * Thông báo cho Phụ huynh và học viên tải về các sản phẩm, mã nguồn cá nhân trong vòng 7 ngày sau buổi Demo Day.
+  * Thông báo cho Phụ huynh và học viên tải về các sản phẩm, mã nguồn Dự án cuối khóa trong vòng 7 ngày sau buổi Demo Day.
   * Đúng ngày thứ 7, đóng quyền truy cập tài nguyên khóa học cũ trên LMS theo đúng Điều 11.3.
 
 ---
@@ -90,16 +93,16 @@
   * Chiếu slide quy ước văn hóa lớp học:
     * Đi học đúng giờ, chào hỏi Thầy Cô và bạn bè.
     * Kỷ luật máy tính: Chỉ mở công cụ học tập, tuyệt đối không chơi game, xem YouTube trong giờ (Điều 5.2).
-    * Văn hóa tôn trọng: Tuyệt đối không trêu chọc, chê bai sản phẩm của bạn (chống Cyberbullying theo Điều 5.3).
+    * Văn hóa tôn trọng: Tuyệt đối không trêu chọc, chê bai sản phẩm Dự án cuối khóa của bạn (chống Cyberbullying theo Điều 5.3).
 * **Bước 3: Giám sát an toàn mạng & Kỷ luật thiết bị trong giờ dạy**
   * Khi học viên tìm kiếm hình ảnh, âm thanh làm game: Hướng dẫn và kiểm soát con bật chế độ Google SafeSearch hoặc chỉ lấy tài nguyên từ kho web an toàn (`kenney.nl`, `itch.io`...) theo Điều 12.
-  * Quản lý hạn mức AI API (OpenAI, Firebase) đối với Tầng 2 & Tầng 3; nghiêm cấm học sinh xuất API Key ra ngoài (Điều 11.2).
+  * Quản lý hạn mức AI API (OpenAI, Firebase) đối với Tầng 2 & Tầng đệm; nghiêm cấm học sinh xuất API Key ra ngoài (Điều 11.2).
   * Nhắc nhở học viên không mang nước không có nắp vào phòng máy để tránh hỏng thiết bị (Điều 13).
 * **Bước 4: Điểm danh & Báo cáo học tập (SLA < 48 giờ sau buổi học)**
   * Điểm danh chính xác trạng thái có mặt/vắng mặt của từng học viên trên LMS ngay trong buổi học.
   * Nhận xét chi tiết mức độ tiếp thu, thái độ học tập của học viên lên hệ thống LMS và gửi tổng kết ngắn vào nhóm Zalo lớp.
-* **Bước 5: Đánh giá Đồ án cuối khóa & Tốt nghiệp**
-  * Chấm điểm Đồ án Capstone theo Bảng Rubric chuẩn xác, công tâm (Điều 7 & Điều 8).
+* **Bước 5: Đánh giá Dự án cuối khóa & Tốt nghiệp**
+  * Chấm điểm Dự án cuối khóa theo Bảng Rubric chuẩn xác, công tâm (Điều 7 & Điều 8).
   * Phát hiện và xử lý nghiêm các trường hợp sao chép code gian lận (chép mã trên mạng hoặc nhờ người làm hộ).
   * Đề xuất các học viên có thái độ học tập tốt nhưng tiếp thu chậm vào danh sách Học lại miễn phí (Điều 9.1).
 
