@@ -1,7 +1,7 @@
 # CÔNG TY TNHH CÔNG NGHỆ LẬP TRÌNH & AI CYBERSOFT
 
 # NỘI QUY NHẬP HỌC & HỌC TẬP CHƯƠNG TRÌNH JUNIOR
-*(Áp dụng cho Học viên và Phụ huynh các Chương trình Đào tạo Lập trình & AI Junior, có hiệu lực từ 01/09/2026)*
+*(Áp dụng cho Học viên và Phụ huynh các Chương trình Đào tạo AI & Lập trình Junior, có hiệu lực từ 01/09/2026)*
 
 > **Lưu ý quan trọng từ Ban Học Vụ:** Phụ huynh vui lòng đọc kỹ từng điều khoản. Mọi thắc mắc cần được trao đổi và giải đáp với Bộ phận Tư vấn trước khi thực hiện thanh toán học phí.
 
