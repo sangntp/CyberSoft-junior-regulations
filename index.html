@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>CyberSoft Junior - Hệ Thống Nội Quy & Quy Trình Vận Hành Nhập Học</title>
+    <title>CyberSoft Junior - Hệ Thống Quy Chế Đào Tạo & Quy Trình Nhập Học</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description"
         content="Hệ thống Văn bản Nội quy Nhập học và Quy trình Vận hành Tiêu chuẩn (SOP) - CyberSoft Junior">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
-    <!-- Font chữ hiện đại Be Vietnam Pro -->
+    <!-- Font Be Vietnam Pro & JetBrains Mono -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -21,15 +21,17 @@
 
     <style>
         :root {
-            --theme-color: #0284c7;
-            --text-color-base: #1e293b;
+            /* Tông màu thương hiệu CyberSoft: Cam - Vàng - Nâu */
+            --theme-color: #ea580c;
+            --text-color-base: #292524;
             --sidebar-width: 300px;
         }
 
         body {
             font-family: 'Be Vietnam Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             color: var(--text-color-base);
-            line-height: 1.7;
+            line-height: 1.75;
+            background-color: #ffffff;
         }
 
         code,
@@ -39,48 +41,94 @@
             font-family: 'JetBrains Mono', monospace;
         }
 
+        /* Sidebar tông màu xám ấm / nâu nhạt */
         .sidebar {
-            background-color: #f8fafc;
-            border-right: 1px solid #e2e8f0;
+            background-color: #fafaf9;
+            border-right: 1px solid #e7e5e4;
         }
 
         .sidebar-nav strong {
-            color: #0369a1;
+            color: #9a3412;
             font-size: 0.95rem;
             text-transform: uppercase;
             letter-spacing: 0.05em;
         }
 
+        .sidebar-nav ul li a:hover,
+        .sidebar-nav ul li.active>a {
+            color: #ea580c !important;
+            border-right: 3px solid #ea580c;
+            font-weight: 600;
+        }
+
+        /* Tiêu đề chính */
         .markdown-section h1 {
-            font-size: 2rem;
+            font-size: 1.9rem;
             font-weight: 700;
-            color: #0f172a;
-            border-bottom: 2px solid #e2e8f0;
+            color: #7c2d12;
+            border-bottom: 2px solid #fed7aa;
             padding-bottom: 0.5rem;
+            margin-top: 1.5rem;
         }
 
         .markdown-section h2 {
-            font-size: 1.5rem;
+            font-size: 1.45rem;
             font-weight: 600;
-            color: #0369a1;
+            color: #9a3412;
             margin-top: 2rem;
+            border-bottom: 1px solid #ffedd5;
+            padding-bottom: 0.3rem;
         }
 
         .markdown-section h3 {
             font-size: 1.2rem;
             font-weight: 600;
-            color: #334155;
+            color: #44403c;
+            margin-top: 1.5rem;
         }
 
+        /* Khung trích dẫn tông vàng nâu */
         .markdown-section blockquote {
-            background: #f0f9ff;
-            border-left: 4px solid #0284c7;
-            border-radius: 0 8px 8px 0;
-            color: #0c4a6e;
+            background: #fffbeb;
+            border-left: 4px solid #f59e0b;
+            border-radius: 0 6px 6px 0;
+            color: #78350f;
             padding: 12px 18px;
             margin: 1.5em 0;
         }
 
+        .markdown-section blockquote p {
+            font-weight: 500;
+            margin: 0;
+        }
+
+        /* Hộp điểm nhấn 5 điểm cốt lõi */
+        .highlight-box {
+            background: #fff7ed;
+            border: 1px solid #fdba74;
+            border-left: 5px solid #ea580c;
+            border-radius: 6px;
+            padding: 16px 20px;
+            margin: 1.5em 0;
+        }
+
+        .highlight-box h3 {
+            color: #9a3412;
+            margin-top: 0;
+            font-size: 1.15rem;
+        }
+
+        .highlight-box ol {
+            margin-bottom: 0;
+            padding-left: 20px;
+        }
+
+        .highlight-box li {
+            margin-bottom: 8px;
+            color: #44403c;
+        }
+
+        /* Bảng biểu */
         .markdown-section table {
             width: 100%;
             border-collapse: collapse;
@@ -90,44 +138,39 @@
         }
 
         .markdown-section table th {
-            background-color: #f1f5f9;
-            color: #0f172a;
+            background-color: #fef3c7;
+            color: #78350f;
             font-weight: 600;
-            border: 1px solid #cbd5e1;
+            border: 1px solid #fde68a;
             padding: 10px 14px;
         }
 
         .markdown-section table td {
-            border: 1px solid #e2e8f0;
+            border: 1px solid #e7e5e4;
             padding: 10px 14px;
         }
 
         .markdown-section table tr:nth-child(2n) {
-            background-color: #f8fafc;
+            background-color: #fafaf9;
         }
 
-        .badge {
-            display: inline-block;
-            padding: 2px 8px;
-            font-size: 0.75rem;
-            font-weight: 600;
+        /* Khung mã code */
+        .markdown-section pre {
+            background-color: #292524 !important;
+            border-radius: 6px;
+        }
+
+        .markdown-section code {
+            color: #c2410c;
+            background: #f5f5f4;
+            padding: 2px 6px;
             border-radius: 4px;
-            margin-right: 4px;
         }
 
-        .badge-blue {
-            background: #e0f2fe;
-            color: #0369a1;
-        }
-
-        .badge-green {
-            background: #dcfce7;
-            color: #15803d;
-        }
-
-        .badge-amber {
-            background: #fef3c7;
-            color: #b45309;
+        .markdown-section pre code {
+            color: #fafaf9;
+            background: transparent;
+            padding: 0;
         }
     </style>
 </head>
@@ -139,19 +182,19 @@
             name: 'CyberSoft Junior Hub',
             repo: '',
             loadSidebar: true,
-            subMaxLevel: 3,
+            subMaxLevel: 2,
             auto2top: true,
             search: {
                 maxAge: 86400000,
                 paths: 'auto',
-                placeholder: 'Tìm kiếm quy chế, SOP, trạng thái...',
-                noData: 'Không tìm thấy kết quả phù hợp!',
-                depth: 4
+                placeholder: 'Tìm kiếm điều khoản, SOP...',
+                noData: 'Không tìm thấy kết quả phù hợp.',
+                depth: 3
             },
             copyCode: {
                 buttonText: 'Sao chép',
                 errorText: 'Lỗi',
-                successText: 'Đã chép'
+                successText: 'Đã sao chép'
             }
         }
     </script>
