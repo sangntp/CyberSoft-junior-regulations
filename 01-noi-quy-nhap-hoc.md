@@ -1,6 +1,6 @@
 # CÔNG TY TNHH CÔNG NGHỆ LẬP TRÌNH & AI CYBERSOFT
 
-## NỘI QUY NHẬP HỌC & HỌC TẬP CHƯƠNG TRÌNH JUNIOR
+# NỘI QUY NHẬP HỌC & HỌC TẬP CHƯƠNG TRÌNH JUNIOR
 *(Áp dụng cho Học viên và Phụ huynh các Chương trình Đào tạo Lập trình & AI Junior, có hiệu lực từ 01/09/2026)*
 
 > **Lưu ý quan trọng từ Ban Học Vụ:** Phụ huynh vui lòng đọc kỹ từng điều khoản. Mọi thắc mắc cần được trao đổi và giải đáp với Bộ phận Tư vấn trước khi thực hiện thanh toán học phí.
@@ -20,7 +20,7 @@
 
 ---
 
-### 1. ĐIỀU KIỆN NHẬP HỌC
+## ĐIỀU 1. ĐIỀU KIỆN NHẬP HỌC
 * **1.1. Khảo sát đầu vào:** Học viên hoàn thành bài test tư duy logic hoặc đã tham gia buổi trải nghiệm (Trial Class 60 phút), được đánh giá trình độ phù hợp trước khi chính thức nhập học.
 * **1.2. Lộ trình học tập:** Tham gia Khóa học theo đúng lộ trình đào tạo đã được trao đổi, tư vấn và thống nhất với Bộ phận Tư vấn và Bộ phận Giáo viên của CyberSoft.
 * **1.3. Nghĩa vụ tài chính:** Hoàn thành 100% học phí (hoặc hoàn tất thủ tục trả góp hợp lệ) trước ngày khai giảng.
@@ -30,8 +30,9 @@
 
 ---
 
-### 2. QUY ĐỊNH VỀ HỌC PHÍ & CÁC TÌNH HUỐNG THỰC TẾ
-**2.1. Quy định chung**  
+## ĐIỀU 2. QUY ĐỊNH VỀ HỌC PHÍ VÀ CÁC TÌNH HUỐNG THỰC TẾ
+
+### 2.1. Quy định chung
 Học phí là khoản phí dịch vụ giáo dục đào tạo công nghệ thanh toán theo lộ trình đã thống nhất. Phụ huynh/Học viên xác nhận đã tìm hiểu kỹ về khung chương trình, cơ sở vật chất, trang thiết bị máy tính, phần mềm và dịch vụ hỗ trợ học tập trước khi đăng ký.
 
 ### 2.2. Hoàn trả học phí (Refund) :id=hoan-phi
@@ -47,7 +48,7 @@ Học phí là khoản phí dịch vụ giáo dục đào tạo công nghệ tha
 > • Giá trị 10 buổi chưa học: (7.000.000 / 14) × 10 = 5.000.000 VNĐ.  
 > • Số tiền CyberSoft hoàn trả: 80% của 5.000.000 = **4.000.000 VNĐ** *(Sau khi đã trừ các chi phí quà tặng nếu có)*.
 
-### 2.3. Bảo lưu học phí & Quỹ thời gian Combo :id=bao-luu
+### 2.3. Bảo lưu học phí và Quỹ thời gian Combo :id=bao-luu
 * **2.3.1. Đăng ký Khóa lẻ:** Lớp học chưa diễn ra quá 50% tổng số buổi; chỉ bảo lưu giá trị các buổi học còn lại; thông báo trước 48 giờ làm việc cho Giáo vụ; thời hạn tối đa 06 tháng; chỉ làm thủ tục bảo lưu 01 lần duy nhất.
 * **2.3.2. Đăng ký theo Gói Lộ trình (Combo):** Học viên tham gia Combo **không áp dụng bảo lưu lẻ từng Khóa**. CyberSoft áp dụng quỹ thời gian đệm linh hoạt, Phụ huynh chỉ cần đảm bảo hoàn thành toàn bộ chương trình trong thời hạn tối đa sau:
 
@@ -66,13 +67,13 @@ Học phí là khoản phí dịch vụ giáo dục đào tạo công nghệ tha
 > • **Tình huống Khóa lẻ:** Học viên đang học lớp **JUNIOR K1 - 01** gồm 14 tuần (12 tuần kiến thức + 2 tuần làm dự án cuối khóa, học phí 4.000.000 VNĐ), nghỉ ốm ở tuần thứ 4 (dưới 50%). Học phí 10 tuần còn lại được bảo lưu tối đa 06 tháng để chờ xếp vào lớp K1 tiếp theo.  
 > • **Tình huống Gói Combo:** Phụ huynh đăng ký **Combo 3 Khóa (K1 - K2 - K3)**. Học viên học xong Khóa K1 mất 14 tuần, sau đó nghỉ hè 2 tháng và bận thi học kỳ ở trường phổ thông thêm 1 tháng. Phụ huynh **không cần làm thủ tục bảo lưu**, chỉ cần báo trước cho Giáo vụ để xếp lớp Khóa K2 **khi có lớp phù hợp** và con đã sẵn sàng, miễn sao con hoàn thành cả 3 khóa trước mốc **15 tháng**.
 
-**2.4. Chuyển nhượng học phí**  
+### 2.4. Chuyển nhượng học phí
 Khoản học phí còn lại có thể chuyển nhượng cho người thân (Anh/Chị/Em ruột, Con ruột). Yêu cầu cung cấp giấy tờ xác minh nhân thân.
 
 > 💡 **Ví dụ Chuyển nhượng:**  
 > Học viên đang học lớp **AGENT K10 - 01** còn dư học phí 2.000.000 VNĐ nhưng bận lịch thi chuyển cấp không thể tiếp tục. Phụ huynh nộp Giấy khai sinh làm thủ tục chuyển 2.000.000 VNĐ này thành chi phí đóng học lớp **JUNIOR K1 - 01** cho em trai ruột.
 
-**2.5. Chuyển cấp độ / Chuyển chương trình học**
+### 2.5. Chuyển cấp độ và chuyển chương trình học
 * **Chuyển sang chương trình học phí thấp hơn:** Học phí thừa được bảo lưu cho Khóa tiếp theo, không hoàn tiền mặt.
 * **Chuyển sang chương trình học phí cao hơn:** Phụ huynh thanh toán bổ sung phần chênh lệch.
 * **Xử lý ngoại lệ do lỗi đánh giá đầu vào:** Nếu Học viên được Giảng viên đánh giá năng lực vượt trội hơn lớp hiện tại ngay trong 01-02 buổi học đầu tiên, CyberSoft sẽ chủ động chuyển Học viên lên lớp cao hơn và **miễn trừ hoàn toàn** khoản học phí chênh lệch cho khóa học đó nhằm khuyến khích tài năng.
@@ -80,12 +81,12 @@ Khoản học phí còn lại có thể chuyển nhượng cho người thân (A
 > 💡 **Ví dụ Miễn trừ học phí vượt trội:**  
 > Học viên đăng ký lớp **JUNIOR K1 - 01**. Sau 2 buổi đầu, Giảng viên nhận thấy học viên đã tự học Scratch rất thành thạo và giải bài tập cực nhanh. Trung tâm chủ động chuyển học viên lên lớp **JUNIOR K2 - 01** và **miễn trừ 100% phần học phí chênh lệch** của khóa học đó.
 
-**2.6. Khóa học tặng kèm**  
+### 2.6. Khóa học và quyền lợi tặng kèm
 Không quy đổi tiền mặt, không hoàn trả, không chuyển nhượng, không bảo lưu.
 
 ---
 
-### 3. ĐIỀU CHUYỂN LỚP VÀ CHUYỂN ĐỔI MÔ HÌNH HỌC TẬP
+## ĐIỀU 3. ĐIỀU CHUYỂN LỚP VÀ CHUYỂN ĐỔI MÔ HÌNH HỌC TẬP
 * **3.1.** Chỉ giải quyết chuyển lớp khi thời lượng lớp hiện tại chưa vượt quá 50% tổng số buổi (Ví dụ: trước buổi thứ 7 đối với khóa 14 buổi).
 * **3.2.** Mỗi Học viên được chuyển lớp 01 lần / 01 Khóa học. Lớp mới có ngày khai giảng không quá 90 ngày so với lớp cũ.
 * **3.3. Chuyển đổi linh hoạt (Offline sang Online):** Trong trường hợp bất khả kháng hoặc theo chỉ đạo từ Cơ quan Nhà nước, lịch học và giá trị học phí không đổi khi chuyển sang học Online.
@@ -95,7 +96,7 @@ Không quy đổi tiền mặt, không hoàn trả, không chuyển nhượng, k
 
 ---
 
-### 4. QUY ĐỊNH VƯỢT KHÓA, TẦNG (JUMP LEVEL)
+## ĐIỀU 4. QUY ĐỊNH VƯỢT KHÓA VÀ NHẢY TẦNG (JUMP LEVEL)
 * **4.1. Điều kiện chuyên môn:** Giảng viên/Mentor đề xuất; Toàn bộ Dự án cuối khóa ≥ 90/100; Bài test vượt cấp ≥ 90%.
 * **4.2. Điều kiện vận hành:** Tỷ lệ tham gia ≥ 80%; Hoàn thành bài tập ≥ 90%; Khoảng cách 02 lần xét vượt lớp ≥ 06 tháng; Có sự chấp thuận của Giáo vụ và Trưởng bộ phận Đào tạo. *(Lưu ý: Nếu vượt lớp thành công giữa lộ trình, Phụ huynh sẽ đóng bổ sung mức học phí chênh lệch của các khóa cao hơn tiếp theo).*
 
@@ -104,7 +105,7 @@ Không quy đổi tiền mặt, không hoàn trả, không chuyển nhượng, k
 
 ---
 
-### 5. THÁI ĐỘ HỌC TẬP VÀ NỘI QUY LỚP HỌC
+## ĐIỀU 5. THÁI ĐỘ HỌC TẬP VÀ KỶ LUẬT PHÒNG HỌC
 * **5.1. Chuyên cần:** Đi học đúng giờ (khuyến khích sớm 15 phút). Chuẩn bị đầy đủ tài khoản học tập.
 * **5.2. Thiết bị & Công nghệ:** Cấm chơi game, lướt web, cài phần mềm lạ trong giờ học. Chỉ sử dụng thiết bị phục vụ bài học dưới sự giám sát của Mentor.
 * **5.3. Văn hóa ứng xử & Kỷ luật phân tầng:**
@@ -120,7 +121,7 @@ Không quy đổi tiền mặt, không hoàn trả, không chuyển nhượng, k
 
 ---
 
-### 6. ĐIỂM DANH VÀ HỌC BÙ (TUTOR / MAKE-UP) :id=hoc-bu
+## ĐIỀU 6. ĐIỂM DANH VÀ CHÍNH SÁCH HỌC BÙ (TUTOR / MAKE-UP) :id=hoc-bu
 * **6.1. Xin phép vắng:** Báo trước tối thiểu 02 tiếng trước giờ vào lớp. Nghỉ không báo là vắng không lý do.
 * **6.2. Học bù:** Cứ 01-02 buổi vắng có lý do được hỗ trợ 01 buổi học bù. Tối đa **03 buổi bù / 01 Khóa**. Thời lượng Tutor bù kiến thức: 30 - 60 phút/buổi.  
 *(Lưu ý: Từ buổi vắng thứ 4 trở đi, trung tâm chỉ hỗ trợ cung cấp tài liệu/video record buổi học, không bố trí thêm ca Tutor 1:1).*
@@ -130,7 +131,7 @@ Không quy đổi tiền mặt, không hoàn trả, không chuyển nhượng, k
 
 ---
 
-### 7. KIỂM TRA, ĐÁNH GIÁ VÀ BẢO VỆ DỰ ÁN CUỐI KHÓA
+## ĐIỀU 7. KIỂM TRA, ĐÁNH GIÁ VÀ BẢO VỆ DỰ ÁN CUỐI KHÓA
 * **7.1.** Bắt buộc tham gia đánh giá và thuyết trình Dự án cuối khóa (Final Project / Demo Day).
 * **7.2.** Vắng mặt có lý do chính đáng: Báo trước 01 tuần để Giáo vụ xếp lịch bảo vệ bổ sung cùng Ban chuyên môn.
 * **7.3. Liêm chính học thuật:** Gian lận (sử dụng code người khác, nhờ làm hộ) sẽ bị hủy kết quả và phải thực hiện lại dưới sự giám sát.
@@ -140,7 +141,7 @@ Không quy đổi tiền mặt, không hoàn trả, không chuyển nhượng, k
 
 ---
 
-### 8. ĐIỀU KIỆN TỐT NGHIỆP VÀ LÊN CẤP ĐỘ
+## ĐIỀU 8. TIÊU CHUẨN TỐT NGHIỆP VÀ LÊN CẤP ĐỘ
 Học viên được công nhận hoàn thành khóa học khi đạt đủ 3 tiêu chuẩn:
 1. Tham dự lớp ≥ 80% tổng thời lượng.
 2. Hoàn thành bài tập Lab ≥ 80%.
@@ -148,7 +149,7 @@ Học viên được công nhận hoàn thành khóa học khi đạt đủ 3 ti
 
 ---
 
-### 9. CHÍNH SÁCH HỖ TRỢ HỌC LẠI (RETAKE POLICY)
+## ĐIỀU 9. CHÍNH SÁCH HỖ TRỢ HỌC LẠI (RETAKE POLICY)
 * **9.1. Hỗ trợ 100% (Miễn phí):** Áp dụng khi Chuyên cần ≥ 80%, bài tập ≥ 80%, thái độ tốt nhưng kết quả Dự án cuối khóa chưa đạt (< 60 điểm). Đăng ký trong vòng 01 tuần sau bế giảng, học lại tối đa 2 buổi chính thức hoặc trọn khóa kế tiếp theo chỉ định chuyên môn.
 * **9.2. Hỗ trợ 50% học phí:** Áp dụng khi Chuyên cần ≥ 80% nhưng hoàn thành bài tập dưới 80% hoặc thái độ chưa nghiêm túc dẫn đến không đạt chuẩn đầu ra.
 * *(Lưu ý: Suất học lại kích hoạt trong 30 ngày đối với suất miễn phí hoặc 60 ngày đối với suất 50%. Mỗi Khóa chỉ xét 01 lần duy nhất).*
@@ -158,14 +159,14 @@ Học viên được công nhận hoàn thành khóa học khi đạt đủ 3 ti
 
 ---
 
-### 10. SỬ DỤNG HÌNH ẢNH VÀ BẢN QUYỀN SẢN PHẨM
+## ĐIỀU 10. BẢN QUYỀN TRÍ TUỆ VÀ HÌNH ẢNH TRUYỀN THÔNG
 * **10.1.** CyberSoft có quyền sử dụng hình ảnh lớp học, video thuyết trình, ứng dụng/game của Học viên cho mục đích truyền thông giáo dục phi thương mại.
 * **10.2.** Giáo trình, tài nguyên lập trình thuộc bản quyền độc quyền của CyberSoft. Nghiêm cấm sao chép, phát tán, thương mại hóa.
 * **10.3. Quyền của Học viên:** Bản quyền mã nguồn và ý tưởng Dự án cuối khóa do học viên tự sáng tạo thuộc về cá nhân Học viên/Phụ huynh. CyberSoft chỉ giữ quyền lưu trữ hồ sơ năng lực (Portfolio).
 
 ---
 
-### 11. QUY ĐỊNH VỀ TÀI SẢN KỸ THUẬT SỐ VÀ TÀI KHOẢN HỌC TẬP :id=thu-hoi-lms
+## ĐIỀU 11. TÀI KHOẢN KỸ THUẬT SỐ, LMS VÀ HẠN MỨC AI API :id=thu-hoi-lms
 * **11.1. Quản lý tài khoản:** Học viên/Phụ huynh tự bảo mật thông tin đăng nhập LMS, Scratch, GitHub, Replit... CyberSoft không chịu trách nhiệm nếu mất mát dữ liệu do chia sẻ cho bên thứ ba.
 * **11.2. Hạn mức tài nguyên & AI API (Dành cho Tầng 2 & Tầng đệm):** Đối với các khóa như **K10 đến K18 (Python)** và **OD1 (Tầng đệm)** cần dùng API OpenAI, Firebase... CyberSoft tài trợ hạn mức học tập trên lớp. Nghiêm cấm xuất API Key ra ngoài sử dụng mục đích cá nhân.
 * **11.3. Thời hạn sử dụng và Thu hồi tài khoản:**
@@ -179,14 +180,14 @@ Học viên được công nhận hoàn thành khóa học khi đạt đủ 3 ti
 
 ---
 
-### 12. BẢO MẬT THÔNG TIN VÀ AN TOÀN AN NINH MẠNG (CYBER SAFETY)
+## ĐIỀU 12. BẢO MẬT THÔNG TIN VÀ AN TOÀN KHÔNG GIAN MẠNG (CYBER SAFETY)
 * **12.1. Bảo vệ tài sản trí tuệ:** Nghiêm cấm sao chép, trích xuất, phát tán giáo trình, source code mẫu trên LMS ra bên ngoài.
 * **12.2. An toàn mạng:** Nghiêm cấm sử dụng máy tính trung tâm để tấn công mạng, phát tán malware/virus, đào coin, bẻ khóa phần mềm.
 * **12.3. Tìm kiếm an toàn (Safe Search):** Bắt buộc bật chế độ Safe Search hoặc sử dụng các kho tài nguyên free-copyright/no-copyright do Mentor chỉ định khi tìm kiếm tư liệu ảnh/âm thanh làm game (`kenney.nl`, `itch.io`...).
 
 ---
 
-### 13. NỘI QUY PHÒNG HỌC VÀ BẢO HIỂM TÀI SẢN
+## ĐIỀU 13. NỘI QUY PHÒNG HỌC VÀ BẢO QUẢN THIẾT BỊ
 * **13.1. Bảo quản thiết bị:** Giữ gìn máy tính, robot VEX/LEGO, vi mạch (Arduino, Raspberry Pi). Cố ý/vô ý làm hỏng do đùa nghịch sai quy trình phải đền bù 100% giá trị theo giá thị trường.
 * **13.2. An toàn Phòng Học:** Tuyệt đối không mang đồ ăn, thức uống không có nắp đậy kín vào Phòng Học. Dọn dẹp vệ sinh trước khi rời lớp.
 
@@ -195,19 +196,29 @@ Học viên được công nhận hoàn thành khóa học khi đạt đủ 3 ti
 
 ---
 
-### 14. QUY CHUẨN MÔ HÌNH HỌC TRỰC TUYẾN (ONLINE)
+## ĐIỀU 14. QUY CHUẨN MÔ HÌNH HỌC TRỰC TUYẾN (ONLINE)
 * **14.1. Hiện diện:** Bắt buộc bật Camera suốt buổi học, đổi tên hiển thị theo cú pháp: `[Mã Lớp] - [Họ tên Học viên]` (Ví dụ: `AGENT K10 - 01 - Nguyễn Văn An`).
 * **14.2. Quyền riêng tư:** Nghiêm cấm tự ý ghi âm, quay màn hình (screen record), phát trực tiếp (livestream) buổi học lên mạng xã hội.
 
 ---
 
-### 15. TƯ TRANG CÁ NHÂN & 16. KHIẾU NẠI
-* Học viên tự chịu trách nhiệm bảo quản tài sản có giá trị (điện thoại, iPad, đồng hồ thông minh...). Trung tâm không bồi thường nếu thất lạc.
-* Mọi khiếu nại qua Hotline, Zalo OA sẽ được tiếp nhận và cam kết giải quyết trong **48 - 72 giờ làm việc**.
+## ĐIỀU 15. QUY ĐỊNH VỀ TƯ TRANG VÀ TÀI SẢN CÁ NHÂN
+* **15.1. Trách nhiệm tự bảo quản:** Học viên tự chịu trách nhiệm bảo quản tài sản có giá trị cá nhân (điện thoại thông minh, máy tính bảng, đồng hồ công nghệ, ví tiền, trang sức).
+* **15.2. Miễn trừ trách nhiệm:** Trung tâm không có nghĩa vụ bồi hoàn hoặc chịu trách nhiệm pháp lý đối với bất kỳ trường hợp thất lạc, hư hỏng tư trang cá nhân do học viên sơ suất để quên hoặc tự làm mất trong khuôn viên lớp học.
+* **15.3. Quy trình tiếp nhận đồ bỏ quên (Lost & Found):** Các đồ dùng học viên bỏ quên sau buổi học sẽ được Giáo vụ cơ sở tập hợp và lưu giữ tại Quầy Lễ Tân trong vòng 30 ngày để Phụ huynh liên hệ nhận lại.
 
 ---
 
-### 17. AN TOÀN, SỨC KHỎE VÀ ĐÓN TRẢ HỌC VIÊN :id=don-tra
+## ĐIỀU 16. QUY TRÌNH TIẾP NHẬN VÀ XỬ LÝ KHIẾU NẠI
+* **16.1. Kênh tiếp nhận chính thức:** Mọi phản ánh, ý kiến đóng góp hoặc khiếu nại của Phụ huynh chỉ được xử lý thông qua 3 kênh chính thức:
+  * Hotline Chăm Sóc Khách Hàng CyberSoft: `[Số Hotline]`
+  * Kênh Zalo Doanh Nghiệp (Zalo OA): `CyberSoft Junior Official`
+  * Văn phòng Quản lý Lớp học / Trưởng bộ phận Giáo vụ trực tiếp tại cơ sở.
+* **16.2. Cam kết thời gian xử lý (SLA):** Mọi khiếu nại sẽ được tiếp nhận và xử lý dứt điểm theo quy trình chuẩn trong vòng **48 đến 72 giờ làm việc**.
+
+---
+
+## ĐIỀU 17. AN TOÀN, SỨC KHỎE VÀ QUY TRÌNH ĐÓN TRẢ HỌC VIÊN :id=don-tra
 * **17.1. Đón/trả học viên:** Phụ huynh không đưa trẻ đến quá sớm (> 30 phút) và đón trẻ quá muộn (> 20 phút) so với giờ học để đảm bảo an toàn quản lý.
 * **17.2. Ủy quyền đón trẻ:** Đăng ký trước thông tin người được ủy quyền đón trẻ qua Zalo lớp. Giáo vụ có quyền từ chối giao trẻ cho người lạ nếu không có xác nhận từ Phụ huynh.
 * **17.3. Y tế:** Khai báo tiền sử bệnh lý, dị ứng. CyberSoft được ủy quyền sơ cứu cơ bản và đưa trẻ đi cấp cứu trong tình huống khẩn cấp nếu không liên lạc được với gia đình.
