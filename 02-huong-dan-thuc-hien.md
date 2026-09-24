@@ -52,63 +52,64 @@ Hệ thống quy chuẩn 10 trạng thái học viên thống nhất giữa các
 ```
 
 ### Bước 1: Tư vấn lộ trình dựa trên kết quả Trải nghiệm (Trạng thái L3B sang L4A)
-* **Thời hạn SLA:** Gọi lại trong vòng < 12 giờ làm việc sau khi buổi học trải nghiệm 60 phút của bé kết thúc.
+* **Thời hạn SLA:** Gọi lại trong vòng < 12 giờ làm việc sau khi buổi học trải nghiệm kết thúc.
 * **Hành động tiêu chuẩn:**
   1. Đọc kỹ Bảng đánh giá Rubric từ Giảng viên trải nghiệm: Nắm chắc điểm mạnh tư duy logic, phản xạ thao tác máy tính và mức độ tự tin của con.
-  2. Thực hiện cuộc gọi Golden Call chúc mừng gia đình, gửi kèm video hoặc link sản phẩm mini do con tự tay lập trình trong buổi học để Bố Mẹ trực tiếp xem.
+  2. Thực hiện cuộc gọi Golden Call chúc mừng gia đình, gửi kèm video hoặc link sản phẩm mini do con tự tay lập trình trong buổi học.
   3. Tư vấn trung thực, chuẩn xác Tầng học phù hợp theo khung đào tạo:
-     * Tầng 1 - Cadet (Lớp 3 - 5): Nền tảng tư duy Scratch & GameMaker.
-     * Tầng 2 - Agent (Lớp 6 - 8): Viết mã thực chiến với Python, Cấu trúc dữ liệu và ứng dụng AI.
-     * Tầng 3 - Architect (Lớp 9 - 11): Kiến trúc hệ thống, Fullstack, AI APIs & Portfolio.
-     * Tầng đệm - Overdrive (OD1): Học sinh lớn tuổi chưa có nền tảng tin học (theo đúng ví dụ minh họa Điều 1), học tách biệt để bảo đảm tâm lý tiếp thu.
+     * **Tầng 1 - Cadet (Lớp 3 - 5):** Nền tảng tư duy Scratch & GameMaker.
+     * **Tầng 2 - Agent (Lớp 6 - 8):** Viết mã thực chiến với Python, Cấu trúc dữ liệu và ứng dụng AI.
+     * **Tầng 3 - Architect (Lớp 9 - 11):** Kiến trúc hệ thống, Fullstack, AI APIs & Portfolio.
+     * **Tầng đệm - Overdrive (OD1):** Học sinh lớn tuổi chưa có nền tảng tin học, học tách biệt để bảo đảm tâm lý tiếp thu.
 * **Đầu ra:** Phụ huynh đồng thuận với khóa học đề xuất; cập nhật CRM sang trạng thái L4A (Đang cân nhắc / Chốt giải pháp).
 
 ### Bước 2: Kích hoạt cơ chế Gatekeeper - Phổ biến Nội quy (Trạng thái L4A)
 * **Nguyên tắc gác cổng:** Tuyệt đối KHÔNG gửi số tài khoản, mã QR thanh toán hoặc thúc ép đóng tiền ở bước này.
 * **Hành động tiêu chuẩn:**
-  1. Gửi bản toàn văn 01. Nội Quy Nhập Học (17 Điều) qua kênh liên lạc chính thức (Zalo/Email) cho Phụ huynh.
-  2. Trực tiếp nhấn mạnh và giải thích cặn kẽ 5 Điểm cốt lõi bắt buộc nắm rõ trước khi thanh toán:
-     * Chính sách Học phí (Điều 2.2): CyberSoft áp dụng nguyên tắc KHÔNG HOÀN HỌC PHÍ sau khi đăng ký (ngoại lệ chỉ áp dụng khi đi du học hoàn 80% buổi chưa học hoặc lỗi hoãn lớp > 3 tháng từ trung tâm).
-     * Quỹ thời gian Gói Combo (Điều 2.3): Đăng ký gói Combo không áp dụng bảo lưu lẻ từng khóa mà áp dụng Khung thời hạn tối đa hoàn thành (Ví dụ: Combo 3 khóa hoàn thành trong tối đa 15 tháng).
-     * Chuyên cần & Học bù Tutor (Điều 6): Nghỉ học có phép (báo trước >= 2 tiếng) được hỗ trợ tối đa 03 buổi học bù Tutor 1:1 miễn phí (30 - 60 phút/buổi).
-     * Thời hạn thu hồi tài khoản LMS (Điều 11): Hệ thống tự động thu hồi tài khoản sau 07 ngày kể từ ngày bế giảng; con cần chủ động tải source code dự án về máy cá nhân.
-     * Văn hóa lớp học & Đón trả an toàn (Điều 5 & Điều 17): Tinh thần tôn trọng bạn bè (chống Cyberbullying); phụ huynh đón con đúng giờ và đăng ký người đón ủy quyền để đảm bảo an toàn cho trẻ.
+  1. Gửi bản toàn văn 01. Nội Quy Nhập Học (17 Điều) qua kênh liên lạc chính thức (Zalo/Email).
+  2. Trực tiếp nhấn mạnh và giải thích cặn kẽ 5 Điểm cốt lõi:
+     * **Chính sách Học phí (Điều 2.2):** KHÔNG HOÀN HỌC PHÍ sau khi đăng ký (ngoại trừ du học hoàn 80% buổi chưa học hoặc lỗi hoãn lớp > 3 tháng từ trung tâm).
+     * **Quỹ thời gian Gói Combo (Điều 2.3):** Không bảo lưu lẻ từng khóa, áp dụng Khung thời hạn tối đa hoàn thành (VD: Combo 3 khóa tối đa 15 tháng).
+     * **Chuyên cần & Học bù Tutor (Điều 6):** Nghỉ có phép (báo trước >= 2 tiếng) được hỗ trợ tối đa 03 buổi Tutor 1:1 miễn phí (30 - 60 phút/buổi).
+     * **Thời hạn thu hồi tài khoản LMS (Điều 11):** Thu hồi tự động sau 07 ngày bế giảng; cần chủ động tải source code về máy.
+     * **Văn hóa lớp học & Đón trả (Điều 5 & 17):** Tôn trọng bạn bè (chống Cyberbullying); đón con đúng giờ và đăng ký người đón ủy quyền.
 * **Đầu ra:** Phụ huynh xác nhận qua tin nhắn: "Tôi đã đọc, hiểu rõ 5 điểm cốt lõi và sẵn sàng thực hiện thủ tục cam kết nhập học".
 
 ### Bước 3: Cổng Chặn - Hướng dẫn ký và xác nhận cam kết Nội quy
-* **Ý nghĩa:** Đây là điều kiện tiên quyết mang tính pháp lý. Chỉ khi hoàn tất bước này thì giao dịch tài chính mới được phép tiến hành.
-* **Phân luồng thực hiện chuẩn hóa (Đồng bộ Offline & Online):**
+* **Ý nghĩa:** Điều kiện tiên quyết mang tính pháp lý để mở khóa giao dịch tài chính.
+* **Phân luồng thực hiện chuẩn hóa:**
   * **Trường hợp A - Phụ huynh tại Cơ sở (Offline):**
-    * In bản cứng Phiếu Thông Tin Nhập Học & Bản Cam Kết Tuân Thủ 17 Điều Nội Quy.
-    * Hướng dẫn Phụ huynh kiểm tra thông tin của bé, ký và ghi rõ họ tên tại quầy tư vấn.
-    * Chụp ảnh scan bản cam kết đã ký lưu vào hồ sơ học viên trên CRM.
+    * In Phiếu Thông Tin Nhập Học & Bản Cam Kết Tuân Thủ 17 Điều Nội Quy.
+    * Hướng dẫn Phụ huynh kiểm tra thông tin, ký và ghi rõ họ tên tại quầy.
+    * Chụp ảnh scan bản cam kết lưu vào hồ sơ học viên trên CRM.
   * **Trường hợp B - Phụ huynh Từ xa (Online):**
-    * Gửi đường link E-Form Xác Nhận Cam Kết Nội Quy Trực Tuyến qua Zalo chính chủ của Phụ huynh.
-    * Hướng dẫn Phụ huynh kiểm tra thông tin, tích chọn đồng thuận toàn bộ 17 Điều Nội quy và bấm Gửi xác nhận.
-    * Kiểm tra hệ thống để bảo đảm bản ghi xác nhận (gồm Timestamp, Số điện thoại và IP) đã được lưu thành công vào hồ sơ học viên.
-* **Đầu ra:** Minh chứng Cam kết hợp lệ (File scan bản ký tay HOẶC Dữ liệu log E-Form có dấu thời gian) -> ĐỦ ĐIỀU KIỆN MỞ KHÓA BƯỚC THANH TOÁN.
+    * Gửi link E-Form Xác Nhận Cam Kết Nội Quy Trực Tuyến qua Zalo chính chủ.
+    * Hướng dẫn Phụ huynh tích chọn đồng thuận 17 Điều Nội quy và bấm Gửi xác nhận.
+    * Kiểm tra hệ thống bảo đảm bản ghi xác nhận (Timestamp, Số điện thoại, IP) đã lưu vào hồ sơ.
+* **Đầu ra:** Minh chứng Cam kết hợp lệ (File scan ký tay HOẶC Dữ liệu log E-Form) -> ĐỦ ĐIỀU KIỆN MỞ KHÓA THANH TOÁN.
 
 ### Bước 4: Mở Cổng Thanh Toán & Xác nhận tài chính (Trạng thái L4A sang L5 / L4B)
-* **Điều kiện kích hoạt:** Bắt buộc đã có minh chứng Cam kết hợp lệ từ Bước 3.
+* **Điều kiện kích hoạt:** Bắt buộc có minh chứng Cam kết hợp lệ từ Bước 3.
 * **Hành động tiêu chuẩn:**
-  1. Cung cấp thông tin chuyển khoản chính thức của Học viện: Tên đơn vị thụ hưởng (Công ty TNHH Công nghệ Lập trình & AI CyberSoft), Số tài khoản ngân hàng hoặc cấp Mã QR thanh toán động.
-  2. Hướng dẫn Phụ huynh ghi đúng cú pháp chuyển khoản chuẩn: `[Họ Tên Bé] - [SĐT Phụ Huynh] - [Mã Khóa Học]`.
-  3. Nhận ảnh chụp chứng từ giao dịch từ Phụ huynh, chuyển Kế toán đối soát sao kê tài khoản ngân hàng.
-  4. Sau khi Kế toán xác nhận tiền đã vào tài khoản: Xuất Biên lai điện tử / Phiếu thu hợp lệ gửi lại ngay cho Phụ huynh qua Zalo.
+  1. Cung cấp thông tin chuyển khoản: Tên đơn vị thụ hưởng (Công ty TNHH Công nghệ Lập trình & AI CyberSoft), Số tài khoản hoặc Mã QR động.
+  2. Hướng dẫn cú pháp chuyển khoản: `[Họ Tên Bé] - [SĐT Phụ Huynh] - [Mã Khóa Học]`.
+  3. Nhận ảnh chụp giao dịch, chuyển Kế toán đối soát sao kê.
+  4. Sau khi Kế toán duyệt: Xuất Biên lai điện tử / Phiếu thu hợp lệ gửi cho Phụ huynh qua Zalo.
 * **Đầu ra:** Biên lai đóng học phí có mã giao dịch hợp lệ; cập nhật trạng thái CRM lên L5 (Đã thanh toán 100%) hoặc L4B (Đã đặt cọc giữ chỗ).
 
 ### Bước 5: Lập Handover Form bàn giao sang Giáo vụ (Trạng thái L5 sang L5.1)
-* **Thời hạn SLA:** Hoàn tất trong vòng < 2 giờ làm việc kể từ khi Kế toán duyệt thu tiền thành công.
+* **Thời hạn SLA:** Hoàn tất trong vòng < 2 giờ làm việc kể từ khi Kế toán duyệt thu tiền.
 * **Hành động tiêu chuẩn:**
-  1. Sales truy cập CRM, điền đầy đủ Phiếu bàn giao học viên chính thức (Handover Form) bao gồm:
-     * Thông tin hành chính: Họ tên bé, ngày sinh, lớp trường phổ thông, thông tin liên lạc của Bố/Mẹ.
-     * Brief học thuật: Nền tảng công nghệ, cấu hình thiết bị máy tính tại nhà (Laptop/PC), đặc điểm tâm lý, lưu ý sức khỏe/thị lực.
-     * Hồ sơ chuyên môn: Đính kèm Bảng đánh giá Rubric từ buổi Trải nghiệm 60p.
-     * Hồ sơ tài chính: Mã biên lai thu tiền, số tiền thực thu, mã lớp dự kiến.
-     * Bằng chứng Gatekeeper (Bắt buộc): Đính kèm link ảnh scan Bản cam kết ký tay (Offline) HOẶC link log E-Form xác nhận nội quy (Online).
-  2. Bấm gửi hồ sơ bàn giao sang hàng đợi tiếp nhận của Bộ phận Giáo vụ.
-  3. Cập nhật trạng thái Lead trên CRM sang L5.1 (Đã bàn giao Giáo vụ).
-* **Đầu ra:** Phiếu Handover Form hoàn chỉnh hiển thị trên hệ thống phòng Giáo vụ.
+  1. Hệ thống tự động sinh Phiếu Handover Form (Task01) khi học viên hoàn tất đóng phí.
+  2. Sales truy cập CRM, kiểm tra đối soát và điền đầy đủ các trường thông tin bàn giao chính thức:
+     * **Thông tin hành chính:** Họ tên bé, ngày sinh, lớp trường phổ thông, thông tin liên hệ Bố/Mẹ.
+     * **Brief học thuật:** Nền tảng công nghệ, cấu hình thiết bị tại nhà, đặc điểm tâm lý, lưu ý sức khỏe/thị lực.
+     * **Hồ sơ chuyên môn:** Đính kèm Bảng đánh giá Rubric từ buổi Trải nghiệm.
+     * **Hồ sơ tài chính:** Mã biên lai, số tiền thực thu, mã lớp dự kiến.
+     * **Bằng chứng Gatekeeper (Bắt buộc):** Đính kèm link ảnh scan Bản cam kết ký tay HOẶC link log E-Form xác nhận.
+  3. Bấm gửi hồ sơ bàn giao sang hàng đợi tiếp nhận của Bộ phận Giáo vụ.
+  4. Cập nhật trạng thái Lead trên CRM sang L5.1 (Đã bàn giao Giáo vụ).
+* **Đầu ra:** Phiếu Handover Form hoàn chỉnh hiển thị trên hệ thống Giáo vụ.
 
 ---
 
