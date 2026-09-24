@@ -224,4 +224,4 @@ Học viên được công nhận hoàn thành khóa học khi đạt đủ 3 ti
 * **17.3. Y tế:** Khai báo tiền sử bệnh lý, dị ứng. CyberSoft được ủy quyền sơ cứu cơ bản và đưa trẻ đi cấp cứu trong tình huống khẩn cấp nếu không liên lạc được với gia đình.
 
 > **Ví dụ Đón trả an toàn (Điều 17):**  
-> Bố mẹ bận đột xuất nên đặt xe GrabCar đón bé sau ca học lớp **JUNIOR K1 - 01**. Mẹ nhắn tin vào nhóm Zalo lớp: *"Thầy cô ơi, mẹ bận nên có đặt xe GrabCar biển số 51H-999.88, tài xế tên Trần Văn C đến đón bé An giúp mẹ nhé"*. Giáo vụ đối chiếu đúng tên tài xế và biển số xe rồi mới dắt bé ra cổng bàn giao cho bác tài.
+> Bố mẹ bận đột xuất nên đặt xe GrabCar đón bé sau ca học lớp **JUNIOR K1 - 01**. Mẹ nhắn tin vào nhóm Zalo lớp: *"Thầy cô ơi, mẹ bận nên có đặt xe GrabCar biển số 51H-999.88, tài xế tên Trần Văn C đến đón bé An giúp mẹ nhé"*. Giáo vụ đối chiếu đúng tên tài xế và biển số xe rồi mới dắt bé ra cổng bàn giao cho bác tài
