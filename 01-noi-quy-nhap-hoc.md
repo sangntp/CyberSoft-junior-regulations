@@ -8,7 +8,7 @@
 ---
 
 <div class="highlight-box">
-  <h3 id="5-diem-cot-loi">5 ĐIỂM CỐT LÕI QUÝ PHỤ HUYNH BẮT BUỘC ĐỌC TRƯỚC KHI ĐÓNG HỌC PHÍ</h3>
+  <h3>5 ĐIỂM CỐT LÕI QUÝ PHỤ HUYNH BẮT BUỘC ĐỌC TRƯỚC KHI ĐÓNG HỌC PHÍ</h3>
   <ol>
     <li><strong>Chính sách Học phí (Điều 2.2):</strong> CyberSoft áp dụng nguyên tắc <strong>KHÔNG HOÀN HỌC PHÍ</strong> sau khi đăng ký. Ngoại lệ chỉ áp dụng khi Học viên đi du học/định cư (hoàn 80% học phí các buổi chưa diễn ra) hoặc lỗi hoãn lớp quá 3 tháng từ trung tâm.</li>
     <li><strong>Quỹ thời gian Gói Combo (Điều 2.3):</strong> Các gói lộ trình Combo (3, 6, 9 khóa) không áp dụng bảo lưu lẻ từng khóa mà áp dụng <em>Thời hạn tối đa hoàn thành</em> (Ví dụ: Combo 3 khóa hoàn thành trong tối đa 15 tháng).</li>
@@ -35,7 +35,7 @@
 ### 2.1. Quy định chung
 Học phí là khoản phí dịch vụ giáo dục đào tạo công nghệ thanh toán theo lộ trình đã thống nhất. Phụ huynh/Học viên xác nhận đã tìm hiểu kỹ về khung chương trình, cơ sở vật chất, trang thiết bị máy tính, phần mềm và dịch vụ hỗ trợ học tập trước khi đăng ký.
 
-### 2.2. Hoàn trả học phí (Refund) :id=hoan-phi
+### 2.2. Hoàn trả học phí (Refund)
 * **Điều kiện:** CyberSoft áp dụng chính sách **KHÔNG HOÀN HỌC PHÍ** dưới bất kỳ hình thức nào sau khi đăng ký. Nếu chưa chắc chắn về lộ trình dài hạn, Phụ huynh có thể chọn Khóa học ngắn hạn. Ngoại lệ chỉ xem xét cho 02 trường hợp:
   * **a)** Học viên chính thức xuất ngoại/đi du học (Hoàn 80% học phí các buổi chưa diễn ra, yêu cầu cung cấp VISA/Giấy xác nhận).
   * **b)** Lỗi phát sinh từ CyberSoft (Hoàn 100% học phí các buổi chưa học nếu trì hoãn khai giảng quá 03 tháng mà không có hỗ trợ tương đương, hoặc dời địa điểm Offline ra khỏi Phường/Xã đăng ký ban đầu).
@@ -48,7 +48,7 @@ Học phí là khoản phí dịch vụ giáo dục đào tạo công nghệ tha
 > • Giá trị 10 buổi chưa học: (7.000.000 / 14) × 10 = 5.000.000 VNĐ.  
 > • Số tiền CyberSoft hoàn trả: 80% của 5.000.000 = **4.000.000 VNĐ** *(Sau khi đã trừ các chi phí quà tặng nếu có)*.
 
-### 2.3. Bảo lưu học phí và Quỹ thời gian Combo :id=bao-luu
+### 2.3. Bảo lưu học phí và Quỹ thời gian Combo
 * **2.3.1. Đăng ký Khóa lẻ:** Lớp học chưa diễn ra quá 50% tổng số buổi; chỉ bảo lưu giá trị các buổi học còn lại; thông báo trước 48 giờ làm việc cho Giáo vụ; thời hạn tối đa 06 tháng; chỉ làm thủ tục bảo lưu 01 lần duy nhất.
 * **2.3.2. Đăng ký theo Gói Lộ trình (Combo):** Học viên tham gia Combo **không áp dụng bảo lưu lẻ từng Khóa**. CyberSoft áp dụng quỹ thời gian đệm linh hoạt, Phụ huynh chỉ cần đảm bảo hoàn thành toàn bộ chương trình trong thời hạn tối đa sau:
 
@@ -121,7 +121,7 @@ Không quy đổi tiền mặt, không hoàn trả, không chuyển nhượng, k
 
 ---
 
-## ĐIỀU 6. ĐIỂM DANH VÀ CHÍNH SÁCH HỌC BÙ (TUTOR / MAKE-UP) :id=hoc-bu
+## ĐIỀU 6. ĐIỂM DANH VÀ CHÍNH SÁCH HỌC BÙ (TUTOR / MAKE-UP)
 * **6.1. Xin phép vắng:** Báo trước tối thiểu 02 tiếng trước giờ vào lớp. Nghỉ không báo là vắng không lý do.
 * **6.2. Học bù:** Cứ 01-02 buổi vắng có lý do được hỗ trợ 01 buổi học bù. Tối đa **03 buổi bù / 01 Khóa**. Thời lượng Tutor bù kiến thức: 30 - 60 phút/buổi.  
 *(Lưu ý: Từ buổi vắng thứ 4 trở đi, trung tâm chỉ hỗ trợ cung cấp tài liệu/video record buổi học, không bố trí thêm ca Tutor 1:1).*
@@ -166,7 +166,7 @@ Học viên được công nhận hoàn thành khóa học khi đạt đủ 3 ti
 
 ---
 
-## ĐIỀU 11. TÀI KHOẢN KỸ THUẬT SỐ, LMS VÀ HẠN MỨC AI API :id=thu-hoi-lms
+## ĐIỀU 11. TÀI KHOẢN KỸ THUẬT SỐ, LMS VÀ HẠN MỨC AI API
 * **11.1. Quản lý tài khoản:** Học viên/Phụ huynh tự bảo mật thông tin đăng nhập LMS, Scratch, GitHub, Replit... CyberSoft không chịu trách nhiệm nếu mất mát dữ liệu do chia sẻ cho bên thứ ba.
 * **11.2. Hạn mức tài nguyên & AI API (Dành cho Tầng 2 & Tầng đệm):** Đối với các khóa như **K10 đến K18 (Python)** và **OD1 (Tầng đệm)** cần dùng API OpenAI, Firebase... CyberSoft tài trợ hạn mức học tập trên lớp. Nghiêm cấm xuất API Key ra ngoài sử dụng mục đích cá nhân.
 * **11.3. Thời hạn sử dụng và Thu hồi tài khoản:**
@@ -218,7 +218,7 @@ Học viên được công nhận hoàn thành khóa học khi đạt đủ 3 ti
 
 ---
 
-## ĐIỀU 17. AN TOÀN, SỨC KHỎE VÀ QUY TRÌNH ĐÓN TRẢ HỌC VIÊN :id=don-tra
+## ĐIỀU 17. AN TOÀN, SỨC KHỎE VÀ QUY TRÌNH ĐÓN TRẢ HỌC VIÊN
 * **17.1. Đón/trả học viên:** Phụ huynh không đưa trẻ đến quá sớm (> 30 phút) và đón trẻ quá muộn (> 20 phút) so với giờ học để đảm bảo an toàn quản lý.
 * **17.2. Ủy quyền đón trẻ:** Đăng ký trước thông tin người được ủy quyền đón trẻ qua Zalo lớp. Giáo vụ có quyền từ chối giao trẻ cho người lạ nếu không có xác nhận từ Phụ huynh.
 * **17.3. Y tế:** Khai báo tiền sử bệnh lý, dị ứng. CyberSoft được ủy quyền sơ cứu cơ bản và đưa trẻ đi cấp cứu trong tình huống khẩn cấp nếu không liên lạc được với gia đình.
