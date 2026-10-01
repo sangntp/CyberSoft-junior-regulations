@@ -42,6 +42,8 @@ Học phí là khoản phí dịch vụ giáo dục đào tạo công nghệ tha
 * **Thời gian & Hồ sơ:** Xử lý trong 30 ngày làm việc. Yêu cầu Đơn hoàn phí (mẫu CyberSoft), CCCD, chứng từ liên quan.
 * **Chi phí loại trừ:** Trừ đi giá trị quà tặng ưu đãi, chi phí trả góp, tiền tài liệu/phần mềm đã cấp phát.
 
+* **Chính sách trải nghiệm đặc biệt (Áp dụng giai đoạn hiện tại):** Học viên sau khi học xong buổi 1 của khóa đầu tiên, nếu cảm thấy không phù hợp với nhu cầu và **thông báo cho trung tâm trước khi buổi 2 diễn ra**, CyberSoft sẽ hoàn lại 100% học phí.
+
 > **Ví dụ Hoàn phí (Trường hợp Đi du học):**  
 > Phụ huynh đăng ký lớp **AGENT K10 - 01 (Tầng 2 - Agent)** gồm 14 buổi, học phí 7.000.000 VNĐ. Học viên học được 4 buổi thì gia đình có quyết định định cư nước ngoài đột xuất.  
 > • Số buổi chưa học: 14 - 4 = 10 buổi.  
