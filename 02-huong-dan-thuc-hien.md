@@ -74,8 +74,9 @@ Kết quả điểm danh chính thức là kết quả cuối cùng trên hệ t
 | **L5.1** | Bàn Giao Giáo Vụ | Đã có Phiếu Cam Kết hợp lệ kèm Handover Form gửi sang Giáo vụ; trạng thái học phí ghi trên phiếu. | Sales sang Giáo vụ | SLA-11 |
 | **L5.2** | Đã Xếp Lớp (Enrolled) | Giáo vụ đón PH và học viên vào Zalo lớp, cấp tài khoản LMS và Lịch học. | Giáo vụ | SLA-12 |
 | **L6** | Tái Tục (Renew/Upsell) | Học viên hoàn thành khóa/tầng, đăng ký học tiếp. | Giáo vụ & Sales | SLA-13 |
+| **L7** | Đã Hoàn Phí – Chăm Sóc Thụ Động | Phụ huynh rút đăng ký trước buổi 2 của khóa đầu tiên và đã được hoàn phí. Ghi lý do rút; không tư vấn chủ động (Vai trò 2, Bước 8b). | Sales | Ngay sau khi hoàn phí |
 | **L8** | Tạm Dừng / Bảo Lưu | Học viên làm thủ tục bảo lưu, tạm dừng học có lý do chính đáng. | Giáo vụ | SLA-14 |
-| **L9** | Tái Kích Hoạt | Học viên bảo lưu hết hạn hoặc học viên cũ quay lại học tiếp. | Sales / CSKH | Ngay khi có tương tác |
+| **L9** | Tái Kích Hoạt | Học viên bảo lưu hết hạn, học viên cũ quay lại học tiếp, hoặc lead L7 có nhu cầu học lại. | Sales / CSKH | Ngay khi có tương tác |
 
 > **Lưu ý:** Do hạn chót học phí là trước buổi học thứ hai của khóa đầu tiên, trạng thái L5.1 và L5.2 có thể diễn ra trước L5.
 
@@ -184,6 +185,7 @@ Kết quả điểm danh chính thức là kết quả cuối cùng trên hệ t
 - **Lớp chưa đủ sĩ số:** Khi CEO và Trưởng phòng Học vụ quyết định dời khai giảng, Sale báo riêng cho từng Phụ huynh.
 - **Tái tục (L6):** Nhận Đề xuất lộ trình học tiếp từ Giáo vụ sau Demo Day để tư vấn Phụ huynh đăng ký khóa tiếp theo.
 - **Chuyển nhượng cho người khác:** Hỗ trợ giới thiệu người nhận trong thời hạn giữ suất (Điều 2.4 Nội quy).
+- **Lead rút đăng ký (L7):** Chuyển trạng thái và chăm sóc thụ động theo Vai trò 2, Bước 8b.
 
 ---
 
@@ -260,8 +262,20 @@ Kết quả điểm danh chính thức là kết quả cuối cùng trên hệ t
 | **Chuyển cấp độ / đổi chương trình** | Điều 2.5: Giảng viên đánh giá trong 01 - 02 buổi đầu | Trưởng phòng Học vụ | Giáo vụ xếp lớp mới; Kế toán xử lý chênh lệch |
 | **Chuyển nhượng cho người thân** | Điều 2.4.1: anh/chị/em ruột, con ruột, có giấy tờ xác minh; không thu phí | Trưởng phòng Học vụ | Giáo vụ; Kế toán ghi nhận |
 | **Chuyển nhượng cho người khác** | Điều 2.4.2 - 2.4.3: phí 5% trừ vào giá trị chuyển; giữ suất tối đa 06 tháng; hết hạn chuyển sang bảo lưu thêm tối đa 06 tháng | Trưởng phòng Học vụ | Giáo vụ theo dõi hạn; Sales giới thiệu người nhận; Kế toán trừ phí |
-| **Hoàn phí trải nghiệm buổi đầu** | Điều 2.2: báo trước buổi học thứ hai của khóa đầu tiên → hoàn 100% học phí đã đóng | Trưởng phòng Học vụ | Kế toán chi trả; Sales cập nhật CRM |
+| **Rút đăng ký trước buổi 2 của khóa đầu tiên** | Điều 2.2: báo trước buổi học thứ hai của khóa đầu tiên (kể cả trước khai giảng) → hoàn 100% học phí đã đóng | Trưởng phòng Học vụ | Theo Bước 8b |
 | **Hoàn phí ngoại lệ** | Điều 2.2 a, b: du học/định cư (80% buổi chưa học), lỗi trung tâm (100% buổi chưa học) | Trưởng phòng Học vụ thẩm định → CEO duyệt | Kế toán chi trả trong 30 ngày làm việc |
+
+### Bước 8b: Rút đăng ký trước buổi 2 của khóa đầu tiên
+
+| Bước | Ai | Việc |
+| --- | --- | --- |
+| 1 | Giáo vụ | Tiếp nhận yêu cầu trước buổi 2 (kể cả trước khai giảng). Hỏi lý do rút (lịch học / nội dung, trình độ / chi phí / lý do khác) và ghi vào Excel quản lý |
+| 2 | Giáo vụ | Nếu lý do là lịch học hoặc trình độ, đề xuất một lần đổi lớp hoặc chương trình phù hợp. Phụ huynh vẫn muốn rút thì làm tiếp |
+| 3 | Trưởng phòng Học vụ | Duyệt hoàn phí |
+| 4 | Kế toán | Hoàn 100% học phí đã đóng theo SLA-28 |
+| 5 | Giáo vụ | Rút học viên khỏi lớp, nhóm Zalo và LMS; cập nhật sĩ số lớp |
+| 6 | Sales | Chuyển lead sang L7 – Đã hoàn phí, chăm sóc thụ động; ghi lý do rút |
+| 7 | Sales | Chăm sóc thụ động: không gọi tư vấn chủ động. Chỉ gửi thông tin khi có lớp/lịch giải quyết đúng lý do rút, hoặc vào đợt tuyển sinh lớn (hè, đầu năm học), mỗi đợt tối đa 01 lần. Phụ huynh có nhu cầu học lại → chuyển L9 – Tái kích hoạt, Sales làm lại từ Vai trò 1, Bước 1 (kể cả ký lại cam kết Nội quy) |
 
 ### Bước 9: Theo mốc khóa học — Capstone, Dự án cuối khóa, Demo Day
 
@@ -423,7 +437,7 @@ Kết quả điểm danh chính thức là kết quả cuối cùng trên hệ t
 
 ### Bước 3: Hoàn phí và chuyển nhượng (Theo Điều 2.2 và 2.4)
 
-- **Hoàn phí trải nghiệm buổi đầu:** Hoàn 100% học phí đã đóng khi Phụ huynh báo không tiếp tục trước buổi học thứ hai của khóa đầu tiên, sau khi Trưởng phòng Học vụ duyệt.
+- **Hoàn phí rút đăng ký:** Hoàn 100% học phí đã đóng khi Phụ huynh báo không tiếp tục trước buổi học thứ hai của khóa đầu tiên (kể cả trước khai giảng), sau khi Trưởng phòng Học vụ duyệt; thời hạn theo SLA-28.
 - **Hoàn phí ngoại lệ:** Tiếp nhận hồ sơ đã được Trưởng phòng Học vụ thẩm định và CEO duyệt (kèm giấy tờ xác minh du học/định cư hoặc biên bản xác nhận lỗi từ trung tâm). Tính hoàn 80% học phí các buổi chưa diễn ra (du học/định cư) hoặc 100% (lỗi trung tâm), khấu trừ quà tặng/ưu đãi liên quan. Chuyển khoản trong vòng tối đa 30 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
 - **Chuyển nhượng cho người khác:** Trừ phí quản lý 5% vào giá trị học phí còn lại trước khi ghi nhận cho người nhận. Không quy đổi tiền mặt.
 
