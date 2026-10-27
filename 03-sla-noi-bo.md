@@ -84,3 +84,5 @@
 | Tỷ lệ nhận xét buổi học quá hạn SLA-27 | <= 3% |
 | Học viên vắng không lý do được liên hệ đúng SLA-18 | 100% |
 | Tỷ lệ tái tục sau khóa | >= 65% |
+
+**Cách tính SLA-27:** Mỗi buổi học của mỗi lớp tính là 1 lượt nhận xét. Lượt đó đúng hạn khi giáo viên đăng đủ hai kênh trong 48 giờ sau buổi học: LMS (nhận xét từng học viên) và nhóm Zalo lớp (nhận xét chung theo Mẫu 8). Thiếu một kênh hoặc đăng sau 48 giờ thì tính là quá hạn. Tỷ lệ quá hạn bằng số lượt quá hạn chia cho tổng số lượt trong tháng.

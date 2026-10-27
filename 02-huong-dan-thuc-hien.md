@@ -279,7 +279,7 @@ Kết quả điểm danh chính thức là kết quả cuối cùng trên hệ t
 
 ### Bước 9: Theo mốc khóa học — Capstone, Dự án cuối khóa, Demo Day
 
-- Gửi tin nhắn nhóm Zalo đúng mốc theo Bộ mẫu tin nhắn Zalo: trước khai giảng (Mẫu 1), sau buổi 1 (Mẫu 2), sau mỗi Capstone (Mẫu 3), trước Dự án cuối khóa (Mẫu 4), trước Demo Day (Mẫu 5), sau Demo Day (Mẫu 6), trước khai giảng khóa sau (Mẫu 7). Sau mỗi buổi học từ buổi 2, giáo viên tự đăng nhận xét theo Mẫu 8.
+- Gửi tin nhắn nhóm Zalo đúng mốc theo Bộ mẫu tin nhắn Zalo: trước khai giảng (Mẫu 1), sau buổi 1 (Mẫu 2), sau mỗi Capstone (Mẫu 3), trước Dự án cuối khóa (Mẫu 4), trước Demo Day (Mẫu 5), sau Demo Day (Mẫu 6), trước khai giảng khóa sau (Mẫu 7). Sau mỗi buổi học, kể cả buổi 1, giáo viên tự đăng nhận xét theo Mẫu 8; Mẫu 2 của Giáo vụ chỉ gồm thông tin vận hành.
 - **Khảo sát Phụ huynh:** Sau mỗi Capstone (khảo sát tiến độ) và sau Demo Day (khảo sát cuối khóa). Phiếu có điểm ≤ 6/10 chuyển ngay cho Trưởng phòng Học vụ.
 - **Demo Day:** Mời Phụ huynh tham dự; học viên vắng có lý do (báo trước 01 tuần) được xếp lịch bảo vệ bổ sung (Điều 7.2).
 
