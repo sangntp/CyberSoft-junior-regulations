@@ -8,6 +8,7 @@
 > - **Mục đích:** Gom toàn bộ thời hạn xử lý và chỉ tiêu nội bộ được nhắc trong `02-huong-dan-thuc-hien.md`. Trong `02-huong-dan-thuc-hien.md`, mỗi chỗ cần thời hạn chỉ ghi mã (ví dụ: "theo SLA-11"); tra con số cụ thể tại tệp này.
 > - **Phạm vi:** Chỉ gồm con số nội bộ. Các thời hạn đã công bố cho Phụ huynh trong `01-noi-quy-nhap-hoc.md` (báo vắng trước 2 tiếng, bảo lưu báo trước 48 giờ, khiếu nại 48 - 72 giờ, hoàn phí 30 ngày, thu hồi LMS sau 7 ngày...) vẫn ghi trực tiếp trong `02-huong-dan-thuc-hien.md`.
 > - **Hiệu lực:** từ ngày [điền khi ban hành]. Thay đổi con số tại tệp này không cần sửa `02-huong-dan-thuc-hien.md`.
+> - **Nhánh Vận hành:** các trang trong thư mục `van-hanh/` cũng chỉ ghi mã SLA và tra con số tại tệp này.
 
 ---
 
@@ -61,6 +62,28 @@
 | **SLA-24** | Bật bộ phát 4G/5G dự phòng khi mất mạng | Trong 10 phút | Giáo vụ |
 | **SLA-25** | Mất điện kéo dài: cho nghỉ sớm và dời buổi | Quá 30 phút | Giáo vụ, Giáo viên |
 
+### A5. Bổ sung cho nhánh Vận hành (đề xuất ngày 28/10/2026, chờ duyệt)
+
+Các mã dưới đây được trích tại các trang trong thư mục `van-hanh/`.
+
+| Mã | Việc | Thời hạn | Bộ phận |
+| --- | --- | --- | --- |
+| **SLA-29** | Gửi Đào tạo yêu cầu xếp giáo viên cho lớp mới | >= 14 ngày trước khai giảng | Giáo vụ |
+| **SLA-30** | Chốt mở lớp: cập nhật Excel quản lý, tạo thư mục lớp, link Meet cố định, gửi giáo viên hồ sơ học viên | >= 48 giờ trước khai giảng | Giáo vụ |
+| **SLA-31** | Gọi chào Phụ huynh trước khai giảng | >= 36 giờ trước khai giảng | Giáo vụ |
+| **SLA-32** | Gọi Phụ huynh khi học viên chưa vào lớp và chưa báo vắng | 10 phút sau giờ bắt đầu | Giáo vụ |
+| **SLA-33** | Truyền đạt nội dung buổi gặp đầu khóa cho Phụ huynh vắng | Trong 24 giờ | Giáo vụ |
+| **SLA-34** | Hoàn thành học bù | Trước buổi học kế tiếp; nếu không kịp thì trong 07 ngày kể từ buổi vắng | Giáo vụ, Đào tạo |
+| **SLA-35** | Đề xuất thêm học viên vào lớp đã khai giảng | Chậm nhất 12 giờ trước buổi học kế tiếp của lớp | Sales, Giáo vụ |
+| **SLA-36** | Phản hồi yêu cầu chuyển lớp | Trong 02 ngày làm việc; chưa có lớp phù hợp thì hẹn kết quả trong tối đa 15 ngày | Giáo vụ |
+| **SLA-37** | Phản hồi đầu tiên với tin nhắn, cuộc gọi nhỡ của Phụ huynh | Trong 60 phút, trong giờ làm việc | Giáo vụ |
+| **SLA-38** | Báo cấp trên phản ánh cần hỗ trợ / bộ phận liên quan gửi phương án | Báo trong 01 giờ / phương án trong 24 giờ | Giáo vụ, bộ phận liên quan |
+| **SLA-39** | Nhận xét Capstone | Trong 72 giờ sau buổi Capstone | Giáo viên |
+| **SLA-40** | Nhận xét cuối khóa | Trong 72 giờ sau Demo Day | Giáo viên |
+| **SLA-41** | Cập nhật kết quả hoàn thành khóa vào Excel quản lý / LMS | Trong 48 giờ sau Demo Day hoặc buổi bảo vệ bổ sung | Giáo vụ |
+| **SLA-42** | Mời Phụ huynh dự Demo Day (Mẫu 5) | 03 – 05 ngày trước Demo Day; nhắc lại 01 ngày trước | Giáo vụ |
+| **SLA-43** | Báo cáo nghiệm thu sản phẩm cuối khóa | Trong 24 giờ sau buổi nghiệm thu | Giáo viên, Giáo vụ |
+
 ---
 
 ## PHẦN B: MỨC ĐỘ ƯU TIÊN SỰ CỐ
@@ -84,5 +107,9 @@
 | Tỷ lệ nhận xét buổi học quá hạn SLA-27 | <= 3% |
 | Học viên vắng không lý do được liên hệ đúng SLA-18 | 100% |
 | Tỷ lệ tái tục sau khóa | >= 65% |
+| Tỷ lệ học bù đúng hạn SLA-34 *(bổ sung 28/10/2026)* | >= 90% |
+| Thời gian chờ lớp trung bình *(bổ sung 28/10/2026)* | < 21 ngày |
+| Mốc chăm sóc hoàn thành đủ hai phía Phụ huynh và học viên *(bổ sung 28/10/2026)* | 100% |
+| Tỷ lệ hoàn thành khóa học *(bổ sung 28/10/2026)* | Đặt mục tiêu sau 01 khóa có số liệu |
 
 **Cách tính SLA-27:** Mỗi buổi học của mỗi lớp tính là 1 lượt nhận xét. Lượt đó đúng hạn khi giáo viên đăng đủ hai kênh trong 48 giờ sau buổi học: LMS (nhận xét từng học viên) và nhóm Zalo lớp (nhận xét chung theo Mẫu 8). Thiếu một kênh hoặc đăng sau 48 giờ thì tính là quá hạn. Tỷ lệ quá hạn bằng số lượt quá hạn chia cho tổng số lượt trong tháng.

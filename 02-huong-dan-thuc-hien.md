@@ -55,6 +55,10 @@ Kết quả điểm danh chính thức là kết quả cuối cùng trên hệ t
 - **Vắng có lý do:** Phụ huynh báo trước giờ học ít nhất 02 tiếng, hoặc báo trong vòng 24 giờ với trường hợp khẩn cấp (Điều 6.1 Nội quy).
 - **Thiết bị học tập:** Trung tâm không có máy tính cho học viên; học viên tự mang laptop (Điều 13 Nội quy).
 
+### 0.6. Nhánh Vận hành
+
+Quy trình chi tiết theo vòng đời lớp học (lịch khai giảng, học bù, biến động học viên, chăm sóc Phụ huynh, Demo Day, kiểm soát chất lượng, file quản lý học vụ) nằm tại [nhánh Vận hành](van-hanh/README.md). Tài liệu này viết theo vai trò; nhánh Vận hành viết theo quy trình. Khi khác nhau, áp dụng theo thứ tự: `01-noi-quy-nhap-hoc.md` → `03-sla-noi-bo.md` → tài liệu này → nhánh Vận hành.
+
 ---
 
 ## KHUNG CHỈ SỐ PHỄU CHUYỂN ĐỔI CRM (L0 ➔ L9)
