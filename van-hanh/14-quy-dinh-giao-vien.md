@@ -14,8 +14,8 @@
 
 - Báo Đào tạo trước, Giáo vụ sau; thời hạn theo SLA-19 (`02-huong-dan-thuc-hien.md`, Vai trò 3, Bước 2).
 - Người dạy thay nhận thông tin lớp, tiến độ, học viên cần lưu ý từ giáo viên chính hoặc Đào tạo trước buổi dạy.
-- **[Đề xuất – chờ duyệt D13]** Mỗi lớp tối đa 02 buổi dạy thay trong một khóa, trừ bất khả kháng.
-- **[Đề xuất – chờ duyệt D14]** Nghỉ có kế hoạch báo trước 03 ngày; SLA-19 áp dụng cho nghỉ phát sinh.
+- Thời hạn báo nghỉ (SLA-19): nghỉ biết trước (việc riêng đã lên kế hoạch) báo trước 03 ngày; nghỉ phát sinh (ốm, việc gấp) báo trước 24 giờ.
+- Dạy thay chỉ chấp nhận khi giáo viên chính nghỉ vì lý do bất khả kháng; không giới hạn số buổi. Trường hợp dạy thay không do bất khả kháng, Trưởng Đào tạo nhắc nhở giáo viên và ghi Sổ lỗi vận hành.
 
 ## 3. Điểm danh
 
@@ -37,6 +37,7 @@
 - Không sao chép một nhận xét cho nhiều học viên.
 - Không dùng lời lẽ tiêu cực, không so sánh học viên với nhau.
 - Nhận xét chi tiết từng học viên không đăng trong nhóm Zalo.
+- Giáo vụ yêu cầu bổ sung khi nhận xét thiếu hoặc chưa rõ; giáo viên bổ sung ngay khi được yêu cầu.
 
 ## 5. Chấm bài, Capstone và Dự án cuối khóa
 

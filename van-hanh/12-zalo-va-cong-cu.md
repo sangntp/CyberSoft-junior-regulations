@@ -9,14 +9,14 @@
 - Nhóm Zalo lớp do Giáo vụ tạo và làm trưởng nhóm. Giáo viên chính, Mentor là phó nhóm.
 - Nhân sự dùng tài khoản công việc để liên lạc Phụ huynh, đồng bộ tin nhắn giữa điện thoại và máy tính để không mất lịch sử.
 - Khi đổi người phụ trách lớp: chuyển quyền trưởng nhóm cho người mới trước khi người cũ rời nhóm.
-- **[Đề xuất – chờ duyệt D10]** Trung tâm cấp một số điện thoại và một tài khoản Zalo chung cho Giáo vụ, dùng cho mọi nhóm lớp.
+- **Kênh Giáo vụ (tạm thời):** dùng số hotline chung của trung tâm và Zalo của một số nhân viên được chỉ định làm kênh của Giáo vụ. Danh sách nhân viên được chỉ định do Trưởng phòng Học vụ quản lý.
 
 ## 2. Nhóm Zalo lớp
 
 | Hạng mục | Quy định |
 | --- | --- |
 | Tên nhóm | Theo trang "Vòng đời học viên & mã chuẩn", Mục 3 |
-| Thành viên | Giáo vụ quản lý lớp, Giáo viên chính, Mentor, Phụ huynh, học viên (`02-huong-dan-thuc-hien.md`, Vai trò 2, Bước 4). **[Đề xuất – chờ duyệt D11]** Thêm Sale đã tư vấn |
+| Thành viên | Giáo vụ quản lý lớp, Giáo viên chính, Mentor, Sale đã tư vấn, Phụ huynh, học viên (`02-huong-dan-thuc-hien.md`, Vai trò 2, Bước 4) |
 | Duyệt thành viên | Bật chế độ trưởng, phó nhóm duyệt thành viên mới |
 | Ghim | Link phòng học Meet cố định; link Nội quy; lịch học |
 | Nội dung | Theo Bộ mẫu tin nhắn Zalo; nhận xét chung sau mỗi buổi (Mẫu 8) |

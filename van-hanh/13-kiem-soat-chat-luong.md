@@ -7,7 +7,7 @@
 ## 1. Rà soát cuối ngày (Giáo vụ, khoảng 15 phút)
 
 - [ ] Điểm danh các buổi hôm nay đã đủ trong Excel quản lý.
-- [ ] Nhận xét buổi học đến hạn đã đủ hai kênh (SLA-27).
+- [ ] Nhận xét buổi học đến hạn đã đủ hai kênh (SLA-27); thiếu hoặc chưa rõ đã yêu cầu giáo viên bổ sung; nội dung cần báo Phụ huynh đã truyền đạt.
 - [ ] Học viên vắng không lý do đã được liên hệ (SLA-18).
 - [ ] Buổi vắng mới đã vào sheet Học bù; buổi bù sắp đến hạn đã có lịch (SLA-34).
 - [ ] Tin Zalo theo mốc của hôm nay đã gửi.
@@ -32,7 +32,7 @@ Mỗi tháng chọn 1 – 2 chủ đề, kiểm toàn bộ hoặc chọn mẫu, 
 ## 3. Dự giờ
 
 - **Người dự:** Trưởng phòng Học vụ, Trưởng Đào tạo (`02-huong-dan-thuc-hien.md`, Vai trò 3 Bước 4, Vai trò 5 Bước 2).
-- **Tần suất:** **[Đề xuất – chờ duyệt D15]** mỗi lớp ít nhất 01 lần mỗi khóa, Offline hoặc qua Meet.
+- **Tần suất:** mỗi lớp ít nhất 01 lần mỗi khóa, Offline hoặc qua Meet.
 - **Tiêu chí:** đúng giờ; dạy bằng tài nguyên chính thức; nhịp Pomodoro; quan tâm đều học viên tại phòng và online; quản lý lớp, an toàn số; bật camera khi dạy online.
 - **Sau dự giờ:** trao đổi với giáo viên trong 02 ngày làm việc; ghi phiếu dự giờ vào thư mục của Đào tạo.
 
@@ -50,11 +50,23 @@ Một bảng chung do Trưởng phòng Học vụ quản lý.
 | Biện pháp khắc phục | Việc cần làm để không lặp lại |
 | Trạng thái | Mở / Đã khắc phục |
 
-Tổng hợp Sổ lỗi hằng tháng vào báo cáo gửi CEO. Hình thức xử lý vi phạm theo quy chế nhân sự của công ty, không quy định tại nhánh này **[Đề xuất – chờ duyệt D12]**.
+Tổng hợp Sổ lỗi hằng tháng vào báo cáo gửi CEO.
+
+**Mức xử lý** (áp dụng tạm từ 02/11/2026):
+
+| Mức | Khi nào | Xử lý |
+| --- | --- | --- |
+| Không tính | Giải trình có lý do chính đáng, được Trưởng phòng Học vụ chấp nhận | Chỉ lưu Sổ lỗi |
+| Nhắc nhở | Lỗi lần 1 trong tháng | Người phụ trách nhắc, ghi Sổ lỗi |
+| Trao đổi trực tiếp | Cùng loại lỗi lần 2 trong tháng | Trưởng phòng Học vụ hoặc Trưởng Đào tạo gặp riêng, thống nhất cách khắc phục |
+| Đưa vào đánh giá tháng | Lần 3 trở lên, hoặc lỗi nghiêm trọng: an toàn của trẻ, sai học phí, nghỉ không báo, nhận xét sai học viên | Ghi vào đánh giá tháng theo quy chế nhân sự; mức trừ do CEO và HR quyết, không ghi tại nhánh này |
+
+**Lỗi về nhận xét học viên:** nhận xét do giáo viên cung cấp. Giáo viên chưa đăng, đăng thiếu hoặc chưa rõ là lỗi của giáo viên. Giáo vụ không yêu cầu bổ sung khi nhận xét thiếu, hoặc không truyền đạt cho Phụ huynh khi nhận xét đã đủ, là lỗi của Giáo vụ.
 
 ## 5. Xác nhận công
 
 - Giờ dạy ngoài lịch chính khóa (dạy bù, dạy thay, buổi vá, buổi bảo vệ bổ sung, giám khảo Demo Day, buổi trải nghiệm) chỉ được tính công khi có **yêu cầu trước** (Phiếu yêu cầu gửi Đào tạo) và **Giáo vụ xác nhận đã diễn ra**.
+- Buổi vá trước Demo Day được tính công khi học viên chưa xong sản phẩm không do lỗi giáo viên (Trưởng Đào tạo xác nhận).
 - Nhân sự bán thời gian trực lớp khai giờ làm hằng tuần theo mẫu của Học vụ.
 - Cuối tháng, Giáo vụ đối chiếu ca dạy với Excel quản lý, Học vụ duyệt và chuyển Kế toán (`02-huong-dan-thuc-hien.md`, Vai trò 2 Bước 13; Vai trò 6 Bước 4).
 

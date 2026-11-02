@@ -22,7 +22,7 @@ Thời gian chờ tính từ ngày bàn giao (L5.1) đến ngày khai giảng.
 | Chưa có lịch khai giảng | Cập nhật lịch gần nhất; đề xuất lớp, khung giờ khác | Mỗi tuần một lần |
 | Chờ trên 30 ngày | Báo Trưởng phòng Học vụ và Trưởng Sale để có phương án (ghép lớp, mở lớp 04 – 05 học viên, đổi khung giờ) | Ngay khi vượt mốc |
 
-Các ngưỡng 14 và 30 ngày: **[Đề xuất – chờ duyệt D2]**.
+Các ngưỡng 14 và 30 ngày áp dụng từ 02/11/2026.
 
 ## 2. Học viên đang học: 6 mốc chăm sóc
 
@@ -54,7 +54,7 @@ Các ngưỡng 14 và 30 ngày: **[Đề xuất – chờ duyệt D2]**.
 | --- | --- | --- | --- |
 | 1 | Giáo vụ | Lập danh sách sau mỗi Capstone và khi phát hiện | Trong 01 ngày |
 | 2 | Giáo viên | Đánh giá nguyên nhân, đề xuất cách hỗ trợ | Trong 02 ngày |
-| 3 | Giáo vụ | Chọn phương án: học bù, buổi vá, tài liệu ôn, đổi lớp hoặc khóa phù hợp, lớp tăng cường **[Đề xuất – chờ duyệt D9]**; ngoài thẩm quyền thì trình Trưởng phòng Học vụ | Trong 01 ngày |
+| 3 | Giáo vụ | Chọn phương án theo thang hỗ trợ (trang "Xếp lớp, học bù", Mục 2.2), tài liệu ôn, hoặc đổi lớp, khóa phù hợp; không thu thêm phí học viên; ngoài thẩm quyền thì trình Trưởng phòng Học vụ | Trong 01 ngày |
 | 4 | Giáo vụ | Trao đổi với Phụ huynh và học viên | Trong 01 ngày |
 | 5 | Giáo vụ | Theo dõi đến mốc chăm sóc kế tiếp; ghi kết quả | — |
 

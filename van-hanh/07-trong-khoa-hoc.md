@@ -18,6 +18,7 @@
 | Cuối buổi | Giáo viên | Giao bài tập về nhà, nhắc hạn nộp | — |
 | Cuối buổi (Offline) | Giáo vụ, giáo viên | Kiểm phòng; bàn giao học viên cho người đón | `02-huong-dan-thuc-hien.md`, Vai trò 2, Bước 12 |
 | Sau buổi | Giáo viên chính hoặc Mentor | Nhận xét trên LMS (từng học viên) và nhóm Zalo (chung, Mẫu 8) | SLA-27 |
+| Đến hạn SLA-27 | Giáo vụ | Kiểm nhận xét của giáo viên: thiếu hoặc chưa rõ thì yêu cầu giáo viên bổ sung; đã đủ thì truyền đạt cho Phụ huynh khi cần (học viên có vấn đề, Phụ huynh hỏi) | SLA-27 |
 | Sau buổi | Giáo viên | Chấm bài tập, ưu tiên bài nộp sớm | SLA-20 |
 | Trong ngày | Giáo vụ | Cập nhật Excel quản lý: điểm danh, nộp bài, vắng (chuyển sheet Học bù); học viên cần quan tâm (chuyển sheet Chăm sóc) | — |
 
@@ -30,7 +31,7 @@
 | **Capstone 1, Capstone 2** | Chấm theo Rubric; nhận xét từng học viên theo SLA-39; lưu vào thư mục lớp | Gửi kết quả riêng cho từng Phụ huynh; gửi khảo sát tiến độ; lấy phản hồi Phụ huynh và trao đổi riêng với học viên; lập danh sách học viên cần quan tâm | Mẫu 3 |
 | **Bắt đầu Dự án cuối khóa** | Hướng dẫn chọn đề tài; theo dõi tiến độ từng học viên | Báo Phụ huynh giai đoạn dự án | Mẫu 4 |
 | **Giai đoạn dự án** | Ghi tiến độ sản phẩm của từng học viên trong nhận xét LMS | Học viên chậm tiến độ: báo Phụ huynh | Mẫu 8 |
-| **Buổi nghiệm thu** (liền trước Demo Day) | Kiểm sản phẩm và slide; chấm thử theo Rubric; xếp thứ tự trình bày; lập báo cáo nghiệm thu | Dự buổi nghiệm thu hoặc nhận báo cáo; xếp buổi vá cho học viên chưa xong **[Đề xuất – chờ duyệt D8]**; gửi Mẫu 5 | Mẫu 5 |
+| **Buổi nghiệm thu** (liền trước Demo Day) | Kiểm sản phẩm và slide; chấm thử theo Rubric; xếp thứ tự trình bày; lập báo cáo nghiệm thu | Dự buổi nghiệm thu hoặc nhận báo cáo; xếp buổi vá cho học viên chưa xong (thang hỗ trợ, trang "Xếp lớp, học bù", Mục 2.2); gửi Mẫu 5 | Mẫu 5 |
 | **Demo Day** | Theo trang "Demo Day & kết thúc khóa" | Theo trang "Demo Day & kết thúc khóa" | Mẫu 6 |
 
 **Báo cáo nghiệm thu** (theo SLA-43) gồm cho từng học viên: đã có sản phẩm chưa, đã có slide chưa, mức hoàn thiện (đạt / cần sửa / chưa xong), việc cần làm trước Demo Day.

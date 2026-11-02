@@ -30,4 +30,4 @@
   * [Quy định giáo viên](van-hanh/14-quy-dinh-giao-vien.md)
 
 * **G. Chờ duyệt**
-  * [Đề xuất chờ duyệt](van-hanh/15-de-xuat-cho-duyet.md)
+  * [Đề xuất & quyết định](van-hanh/15-de-xuat-cho-duyet.md)

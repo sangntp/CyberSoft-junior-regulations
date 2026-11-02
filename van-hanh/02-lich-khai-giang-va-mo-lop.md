@@ -16,7 +16,7 @@
 
 **Khung giờ chuẩn:** Trưởng phòng Học vụ công bố danh sách khung giờ cố định (thời lượng theo khóa). Mở lớp ngoài khung giờ chuẩn phải được Trưởng phòng Học vụ đồng ý.
 
-**[Đề xuất – chờ duyệt D1]** Sale chỉ chốt lớp theo lịch khai giảng đã công bố. Lớp phát sinh ngoài lịch chỉ mở khi Trưởng phòng Học vụ đồng ý.
+**Chốt lớp theo lịch:** Sale chỉ chốt lớp theo lịch khai giảng đã công bố. Lớp phát sinh ngoài lịch chỉ mở khi Trưởng phòng Học vụ và Trưởng Sale cùng đồng ý.
 
 ## 2. Bàn giao và tiếp nhận học viên
 

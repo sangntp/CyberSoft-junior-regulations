@@ -54,13 +54,21 @@ Không bảo lưu lẻ. Giáo vụ theo dõi **hạn hoàn thành gói** trong s
 ### 3.3. Quay lại sau bảo lưu
 
 - Xếp lớp phiên bản tương đương nếu chương trình đã nâng cấp (Điều 2.3.3).
-- **[Đề xuất – chờ duyệt D5]** Nghỉ trên 30 ngày thì làm bài kiểm tra ngắn dựa trên Capstone gần nhất để chọn lớp phù hợp.
+- Nghỉ trên 30 ngày thì làm bài kiểm tra ngắn dựa trên Capstone gần nhất để chọn lớp phù hợp; Đào tạo ra đề và chấm.
 - Quay lại sớm hơn hạn: Giáo vụ xếp lớp, cập nhật sheet Bảo lưu (kết thúc bảo lưu), thêm dòng mới ở lớp mới.
 
 ### 3.4. Sắp hết hạn và quá hạn
 
 - Chăm sóc học viên bảo lưu hằng tháng: trang "Chăm sóc theo mốc", Mục 4.
-- **[Đề xuất – chờ duyệt D6]** Hết hạn bảo lưu khóa lẻ mà Phụ huynh không liên hệ: cần quy định cách xử lý giá trị học phí còn lại và bổ sung vào Điều 2.3.1 Nội quy. Trong lúc chờ, Giáo vụ báo Trưởng phòng Học vụ từng trường hợp.
+- Hết hạn bảo lưu khóa lẻ mà Phụ huynh chưa liên hệ xếp lớp (Điều 2.3.1 Nội quy):
+
+| Mốc | Việc |
+| --- | --- |
+| Ngày hết hạn | Giáo vụ gửi thông báo lần 1: hạn đã hết, lịch lớp phù hợp, cách liên hệ |
+| Sau 15 ngày | Gửi thông báo lần 2, nêu rõ mốc 30 ngày |
+| Sau 30 ngày kể từ ngày hết hạn | Không phản hồi: giá trị học phí bảo lưu hết hiệu lực; Giáo vụ ghi sheet Bảo lưu và báo Trưởng phòng Học vụ |
+
+- **Gia hạn:** Phụ huynh có lý do chính đáng được gia hạn 01 lần, tối đa 60 ngày; Trưởng phòng Học vụ duyệt.
 
 ## 4. Chuyển nhượng (Điều 2.4)
 
@@ -97,7 +105,7 @@ Làm theo `02-huong-dan-thuc-hien.md`, Vai trò 2, Bước 8b.
 | Ngày thứ 7 | Gửi tin nhắn thông báo lần 1: con đã vắng các buổi nào, quyền học bù còn lại, đề nghị Phụ huynh liên hệ |
 | Ngày thứ 15 | Gửi tin nhắn thông báo lần 2; báo Trưởng phòng Học vụ |
 
-**[Đề xuất – chờ duyệt D7]** Sau ngày thứ 15 vẫn không liên lạc được: cần quy định hướng xử lý học phí còn lại và bổ sung vào Nội quy. Trong lúc chờ, học viên giữ trạng thái **Đang học** và Trưởng phòng Học vụ quyết từng trường hợp.
+**Sau ngày thứ 15 vẫn không liên lạc được** (Điều 2.3.4 Nội quy): rút học viên khỏi lớp, trạng thái **Nghỉ ngang**; tự nghỉ không tính là bảo lưu (Điều 2.1). Phụ huynh liên hệ lại trong 30 ngày kể từ ngày rút khỏi lớp: xếp lại vào lớp cùng tiến độ nếu có, hoặc làm bảo lưu nếu lớp cũ chưa quá 50% số buổi (tính đến buổi cuối học viên có mặt). Quá 30 ngày: giá trị học phí các buổi chưa học hết hiệu lực.
 
 ## 7. Checklist đóng hồ sơ sau biến động
 

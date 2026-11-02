@@ -6,7 +6,7 @@
 >
 > - **Phạm vi:** Các lớp lập trình Junior đang tuyển sinh (Tầng 1, Tầng 2, Tầng đệm), hình thức Offline, Online và Hybrid.
 > - **Người soạn:** Trưởng phòng Học vụ. **Người duyệt ký ban hành:** CEO.
-> - **Trạng thái:** Bản nháp 0.1 (28/10/2026), chờ đọc duyệt. Hiệu lực từ ngày [điền khi ban hành].
+> - **Trạng thái:** Bản nháp 0.2 (02/11/2026), Trưởng phòng Học vụ đã duyệt; chờ CEO ký ban hành. Hiệu lực từ ngày [điền khi ban hành].
 
 ---
 
@@ -45,12 +45,12 @@ Dùng đúng tên vai trò tại `02-huong-dan-thuc-hien.md`, Mục 0.1: CEO, Tr
 | Trưởng Đào tạo | Lịch khai giảng & mở lớp → Xếp lớp, học bù → Quy định giáo viên → Kiểm soát chất lượng |
 | Sale | Lịch khai giảng & mở lớp → Học phí & hoàn phí → Chăm sóc theo mốc (phần chờ lớp) |
 | Kế toán | Học phí & hoàn phí → Biến động học viên |
-| Trưởng phòng Học vụ | Toàn bộ, đặc biệt Kiểm soát chất lượng và Đề xuất chờ duyệt |
+| Trưởng phòng Học vụ | Toàn bộ, đặc biệt Kiểm soát chất lượng và Đề xuất & quyết định |
 
 ## 5. Quy ước trình bày
 
 - **"theo SLA-xx":** tra con số tại `03-sla-noi-bo.md`.
-- **[Đề xuất – chờ duyệt Dx]:** nội dung chưa có hiệu lực, đang chờ người có thẩm quyền quyết. Danh sách đầy đủ tại trang "Đề xuất chờ duyệt".
+- **[Đề xuất – chờ duyệt Dx]:** nội dung chưa có hiệu lực, đang chờ người có thẩm quyền quyết. Danh sách và quyết định tại trang "Đề xuất & quyết định". Từ 02/11/2026 các nhãn này đã được gỡ sau khi duyệt.
 - **Excel quản lý:** file quản lý học vụ dùng tạm khi LMS chưa vận hành đầy đủ. Cấu trúc tại trang "File quản lý học vụ".
 - **Bộ mẫu tin nhắn Zalo:** bản nội bộ lưu trên Drive của trung tâm, không đăng lên website.
 - **Buổi học:** số buổi của từng khóa theo giáo trình khóa đó. Các mốc trong nhánh này ghi theo vị trí tương đối (buổi 1, Capstone, buổi liền trước Demo Day, Demo Day) để dùng chung cho mọi khóa.
@@ -60,6 +60,7 @@ Dùng đúng tên vai trò tại `02-huong-dan-thuc-hien.md`, Mục 0.1: CEO, Tr
 | Ngày | Nội dung | Hiệu lực |
 | --- | --- | --- |
 | 28/10/2026 | Tạo bản nháp 0.1 nhánh Vận hành (15 trang) | Chưa hiệu lực, chờ duyệt |
+| 02/11/2026 | Bản nháp 0.2: Trưởng phòng Học vụ duyệt 16 đề xuất D1 – D16 (xem trang "Đề xuất & quyết định"); thêm thang hỗ trợ học bù; bổ sung Điều 2.3.1, 2.3.4, 6.2 Nội quy | Áp dụng tạm; chờ CEO ký ban hành |
 
 Mỗi thay đổi sau khi ban hành được ghi thêm một dòng: ngày, nội dung thay đổi, ngày bắt đầu áp dụng, bộ phận bị ảnh hưởng.
 

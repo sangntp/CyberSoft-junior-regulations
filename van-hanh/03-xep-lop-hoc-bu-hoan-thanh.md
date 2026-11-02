@@ -10,7 +10,7 @@
 
 | Nhóm | Gồm | Điều kiện vào lớp |
 | --- | --- | --- |
-| **Học viên chưa học buổi nào của khóa** | Học viên mới, học viên lên khóa tiếp theo, người nhận chuyển nhượng | **[Đề xuất – chờ duyệt D3]** Lớp mới học tối đa 02 buổi (khóa Tầng 1, Tầng 2) hoặc 03 buổi (khóa Tầng đệm). Bắt buộc học bù phần đã qua trước buổi học kế tiếp |
+| **Học viên chưa học buổi nào của khóa** | Học viên mới, học viên lên khóa tiếp theo, người nhận chuyển nhượng | Lớp mới học tối đa 03 buổi (áp dụng cho cả Tầng 1, Tầng 2, Tầng đệm). Bắt buộc học bù phần đã qua trước buổi học kế tiếp |
 | **Học viên đã học dở ở lớp khác** | Chuyển lớp, quay lại sau bảo lưu | Tiến độ lớp mới bằng hoặc chậm hơn tiến độ của học viên; chuyển lớp phải đúng Điều 3 Nội quy (chưa quá 50% số buổi, 01 lần/khóa) |
 
 ### 1.2. Các bước
@@ -30,25 +30,31 @@
 ### 2.1. Định mức (Điều 6 Nội quy)
 
 - Cứ 01 – 02 buổi vắng có lý do được 01 buổi học bù; tối đa 03 buổi học bù / khóa.
-- Học bù theo nhóm, 30 – 60 phút/buổi. Học viên vắng không lý do được dự buổi bù nhóm khi có lịch bù cho nội dung đó.
+- Học bù theo nhóm, 30 – 60 phút/buổi; không xếp được buổi bù nhóm thì dùng thang hỗ trợ tại Mục 2.2. Học viên vắng không lý do được dự buổi bù nhóm khi có lịch bù cho nội dung đó.
 - Đã xác nhận lịch bù mà vẫn vắng: mất quyền bù của buổi vắng đó (trừ bất khả kháng được chấp thuận).
 - Từ buổi vắng thứ 4: chỉ cung cấp tài liệu và bản ghi (nếu có).
-- Học bù phần đã qua của học viên vào lớp muộn (Mục 1) không tính vào định mức 03 buổi **[Đề xuất – chờ duyệt D3]**.
+- Học bù phần đã qua của học viên vào lớp muộn (Mục 1) không tính vào định mức 03 buổi.
 
-### 2.2. Thứ tự chọn phương án
+### 2.2. Thang hỗ trợ (học bù và học viên cần hỗ trợ thêm)
 
-| Thứ tự | Phương án | Khi nào dùng |
-| --- | --- | --- |
-| 1 | **Buổi bù nhóm** 30 – 60 phút, Offline hoặc qua Meet | Mặc định. Gom các học viên cần bù cùng mã buổi |
-| 2 | **Học ghép** vào một lớp cùng khóa đang học đúng buổi đó **[Đề xuất – chờ duyệt D4]** | Có lớp phù hợp về lịch và hình thức |
-| 3 | **Bản ghi buổi học** | Chỉ cho học viên vắng có lý do không dự được buổi bù, và chỉ khi buổi học có ghi hình (Điều 6.3) |
+Dùng cho học bù và cho học viên có kết quả Capstone thấp hoặc chậm tiến độ (trang "Chăm sóc theo mốc", Mục 3). Đi lần lượt từ bậc 1; chỉ dùng bậc sau khi bậc trước không làm được. **Không thu thêm phí học viên ở mọi bậc.**
+
+| Bậc | Phương án | Khi nào dùng | Chi phí giáo viên |
+| --- | --- | --- | --- |
+| 1 | **Buổi bù tổng hợp:** gom nhiều học viên, nhiều nội dung cần bù vào một buổi, Offline hoặc qua Meet | Mặc định | Gộp vào buổi bù đã xếp, không phát sinh thêm |
+| 2 | **Học ghép** vào một lớp cùng khóa đang học đúng buổi đó | Có lớp phù hợp về lịch và hình thức. Không có lớp cùng khóa thì chuyển bậc 3 | Không |
+| 3 | **Hẹn học viên một buổi trong giờ hành chính** với người đang trực tại cơ sở | Học viên sắp xếp được giờ hành chính | Không phát sinh |
+| 4 | **Giáo viên chính của lớp** sắp xếp buổi hỗ trợ | Bậc 1 – 3 không làm được | Có |
+| 5 | **Giáo viên khác** do Đào tạo xếp | Giáo viên chính không sắp xếp được giờ | Có |
+
+Bản ghi buổi học chỉ cấp cho học viên vắng có lý do không dự được buổi bù, và chỉ khi buổi học có ghi hình (Điều 6.3 Nội quy).
 
 ### 2.3. Các bước
 
 | Bước | Ai | Việc | Thời hạn |
 | --- | --- | --- | --- |
 | 1 | Giáo vụ | Ghi buổi vắng vào sheet Học bù: loại vắng (có lý do / không lý do), mã buổi | Trong ngày học |
-| 2 | Giáo vụ | Gom học viên cùng mã buổi; gửi Đào tạo yêu cầu giáo viên phát sinh | Ngay khi có đủ thông tin |
+| 2 | Giáo vụ | Chọn phương án theo thang hỗ trợ (Mục 2.2); gửi Đào tạo yêu cầu giáo viên phát sinh khi cần | Ngay khi có đủ thông tin |
 | 3 | Giáo vụ | Báo Phụ huynh lịch bù; Phụ huynh xác nhận bằng tin nhắn | Trước buổi bù |
 | 4 | Giáo viên được xếp | Dạy bù; điểm danh buổi bù | Theo lịch |
 | 5 | Giáo vụ | Ghi kết quả: đã bù / vắng buổi bù; trạng thái đúng hạn hay trễ hạn | Trong ngày bù |

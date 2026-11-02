@@ -14,7 +14,7 @@
 - [ ] Đã gửi Đào tạo yêu cầu giám khảo (nếu cần người ngoài lớp).
 - [ ] Đã phân công người dẫn chương trình (giáo viên hoặc Giáo vụ).
 - [ ] Đã nhắc học viên đến sớm và mang laptop sạc đầy.
-- [ ] Học viên chưa xong sản phẩm đã có lịch buổi vá **[Đề xuất – chờ duyệt D8]**.
+- [ ] Học viên chưa xong sản phẩm đã có lịch buổi vá. Buổi vá được tính công cho giáo viên nếu học viên chưa xong không do lỗi giáo viên (Trưởng Đào tạo xác nhận).
 
 ### 1.2. Trước Demo Day
 
