@@ -17,7 +17,7 @@
 | **D7** | Học viên tự nghỉ, mất liên lạc sau 15 ngày dù đã liên hệ đủ quy trình: rút khỏi lớp, ghi Nghỉ ngang. Phụ huynh liên hệ lại trong 30 ngày thì xếp lại lớp, hoặc bảo lưu nếu lớp cũ học chưa quá 50%; sau thời hạn đó giá trị khóa học hết hiệu lực | Đã duyệt | `01-noi-quy-nhap-hoc.md` (Điều 2.3.4 mới); trang "Biến động học viên" |
 | **D8** | Buổi vá (30 – 60 phút) trước Demo Day cho học viên chưa hoàn thành sản phẩm; tính công giáo viên nếu việc chậm không do lỗi giáo viên, Trưởng Đào tạo xác nhận | Đã duyệt | Trang "Trong khóa học", "Demo Day & kết thúc khóa", "Kiểm soát chất lượng" |
 | **D9** | Lớp tăng cường có thu phí (1 – 1 hoặc 1 – 2, qua Meet) | **Bỏ** – thay bằng thang hỗ trợ tại D4, không thu thêm phí | Không áp dụng |
-| **D10** | Kênh Giáo vụ tạm thời: hotline chung của trung tâm và Zalo của một số nhân viên được chỉ định | Đã duyệt tạm (chờ số và Zalo chung) | Trang "Zalo & công cụ" |
+| **D10** | Kênh Giáo vụ tạm thời: hotline chung của trung tâm và Zalo của một số nhân viên được chỉ định | Đã duyệt tạm (hotline 0961 05 10 14; chờ Zalo chung) | Trang "Zalo & công cụ" |
 | **D11** | Sale đã tư vấn là thành viên nhóm Zalo lớp để phối hợp tái tục | Đã duyệt | `02-huong-dan-thuc-hien.md` (Vai trò 2, Bước 4); trang "Zalo & công cụ" |
 | **D12** | Xử lý theo Sổ lỗi vận hành, 4 mức: Không tính / Nhắc nhở / Trao đổi trực tiếp / Đưa vào đánh giá tháng; không đưa mức phạt tiền vào nhánh Vận hành. Nhận xét học viên: Giáo vụ thu từ Giáo viên, chưa có hoặc chưa rõ thì nhắc lại; đã đủ thì truyền đạt lại cho Phụ huynh | Đã duyệt tạm | Trang "Kiểm soát chất lượng", "Trong khóa học", "Quy định giáo viên" |
 | **D13** | Dạy thay chỉ khi bất khả kháng, không giới hạn số buổi; trường hợp khác nhắc nhở và ghi Sổ lỗi | Đã duyệt (điều chỉnh: bỏ giới hạn 02 buổi) | `02-huong-dan-thuc-hien.md` (Vai trò 3, Bước 2); trang "Quy định giáo viên" |
@@ -25,23 +25,23 @@
 | **D15** | Dự giờ mỗi lớp ít nhất 01 lần mỗi khóa | Đã duyệt | `02-huong-dan-thuc-hien.md` (Vai trò 3, Vai trò 5); trang "Kiểm soát chất lượng" |
 | **D16** | Các thời hạn SLA-29 đến SLA-43 và các chỉ số bổ sung; SLA-34 viết lại: học viên vắng được học bù xong trước buổi học tiếp theo của lớp, nếu không xếp kịp thì chậm nhất 07 ngày kể từ buổi vắng | Đã duyệt tạm | `03-sla-noi-bo.md` (A5, Phần C) |
 
-**Việc còn chờ CEO:** ký ban hành toàn bộ nhánh Vận hành; cấp hotline và Zalo chung cho Giáo vụ (D10).
+**Việc còn chờ CEO:** ký ban hành toàn bộ nhánh Vận hành; cấp Zalo chung cho Giáo vụ (D10) và Zalo OA chính thức.
 
-## 2. Mẫu tin nhắn còn thiếu
+## 2. Mẫu tin nhắn bổ sung
 
-Bộ mẫu tin nhắn Zalo hiện có 8 mẫu cho nhóm lớp. Các tình huống dưới đây cần thêm mẫu, phần lớn là **tin nhắn riêng** cho từng Phụ huynh:
+Bộ mẫu tin nhắn Zalo có 8 mẫu cho nhóm lớp (Mẫu 1 – 8, đã duyệt). Ngày 02/11/2026 đã soạn thêm 12 mẫu cho các tình huống dưới đây (Mẫu 9 – 20, bản nháp chờ Trưởng phòng Học vụ duyệt), phần lớn là **tin nhắn riêng** cho từng Phụ huynh:
 
-| # | Tình huống | Người gửi | Kênh |
+| Mẫu | Tình huống | Người gửi | Kênh |
 | --- | --- | --- | --- |
-| 1 | Xác nhận chuyển lớp; hẹn ngày trả lời khi chưa có lớp | Giáo vụ | Tin riêng |
-| 2 | Xác nhận bảo lưu | Giáo vụ | Tin riêng |
-| 3 | Bảo lưu sắp hết hạn; quá hạn bảo lưu | Giáo vụ | Tin riêng |
-| 4 | Mất liên lạc lần 1, lần 2 | Giáo vụ | Tin riêng |
-| 5 | Nhắc hoàn tất học phí trước buổi 2 | Sale | Tin riêng |
-| 6 | Kết quả Capstone của con | Giáo vụ | Tin riêng |
-| 7 | Mời buổi gặp Phụ huynh đầu khóa | Giáo vụ | Nhóm lớp |
-| 8 | Dời buổi học, nghỉ lễ | Giáo vụ | Nhóm lớp |
-| 9 | Lớp dời khai giảng do chưa đủ sĩ số | Sale | Tin riêng |
-| 10 | Mời buổi bảo vệ bổ sung (Demo bù) | Giáo vụ | Tin riêng |
-| 11 | Nhắc tải mã nguồn trước khi thu hồi tài khoản LMS | Giáo vụ | Nhóm lớp |
-| 12 | Kết quả cuối khóa và đề xuất lộ trình học tiếp | Giáo vụ, Sale | Tin riêng |
+| 9 | Xác nhận chuyển lớp; hẹn ngày trả lời khi chưa có lớp | Giáo vụ | Tin riêng |
+| 10 | Xác nhận bảo lưu | Giáo vụ | Tin riêng |
+| 11 | Bảo lưu sắp hết hạn; quá hạn bảo lưu (lần 1, lần 2) | Giáo vụ | Tin riêng |
+| 12 | Mất liên lạc lần 1, lần 2 | Giáo vụ | Tin riêng |
+| 13 | Nhắc hoàn tất học phí trước buổi 2 | Sale | Tin riêng |
+| 14 | Kết quả Capstone của con | Giáo vụ | Tin riêng |
+| 15 | Mời buổi gặp Phụ huynh đầu khóa | Giáo vụ | Nhóm lớp |
+| 16 | Dời buổi học, nghỉ lễ | Giáo vụ | Nhóm lớp |
+| 17 | Lớp dời khai giảng do chưa đủ sĩ số | Sale | Tin riêng |
+| 18 | Mời buổi bảo vệ bổ sung (Demo bù) | Giáo vụ | Tin riêng |
+| 19 | Nhắc tải mã nguồn trước khi thu hồi tài khoản LMS | Giáo vụ | Nhóm lớp |
+| 20 | Kết quả cuối khóa và đề xuất lộ trình học tiếp | Giáo vụ, Sale | Tin riêng |

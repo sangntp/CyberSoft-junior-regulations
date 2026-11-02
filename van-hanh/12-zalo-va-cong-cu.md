@@ -9,7 +9,8 @@
 - Nhóm Zalo lớp do Giáo vụ tạo và làm trưởng nhóm. Giáo viên chính, Mentor là phó nhóm.
 - Nhân sự dùng tài khoản công việc để liên lạc Phụ huynh, đồng bộ tin nhắn giữa điện thoại và máy tính để không mất lịch sử.
 - Khi đổi người phụ trách lớp: chuyển quyền trưởng nhóm cho người mới trước khi người cũ rời nhóm.
-- **Kênh Giáo vụ (tạm thời):** dùng số hotline chung của trung tâm và Zalo của một số nhân viên được chỉ định làm kênh của Giáo vụ. Danh sách nhân viên được chỉ định do Trưởng phòng Học vụ quản lý.
+- **Kênh Giáo vụ (tạm thời):** dùng số hotline chung của trung tâm (0961 05 10 14) và Zalo của một số nhân viên được chỉ định làm kênh của Giáo vụ. Danh sách nhân viên được chỉ định do Trưởng phòng Học vụ quản lý.
+- **Tin nhắn riêng cho Phụ huynh:** dùng Mẫu 9 – 20 của Bộ mẫu tin nhắn Zalo (chuyển lớp, bảo lưu, mất liên lạc, học phí, kết quả Capstone, dời khai giảng, Demo bù, kết quả cuối khóa); không gửi các nội dung này vào nhóm lớp.
 
 ## 2. Nhóm Zalo lớp
 

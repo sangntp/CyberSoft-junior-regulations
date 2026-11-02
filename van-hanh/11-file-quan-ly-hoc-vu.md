@@ -1,6 +1,6 @@
 # FILE QUẢN LÝ HỌC VỤ (EXCEL TẠM THAY LMS)
 
-> **TÀI LIỆU NỘI BỘ.** Căn cứ: `02-huong-dan-thuc-hien.md` (Mục 0.3, 0.4). Trang này là **bản thiết kế**; tạo file thật là một bước riêng.
+> **TÀI LIỆU NỘI BỘ.** Căn cứ: `02-huong-dan-thuc-hien.md` (Mục 0.3, 0.4). Trang này là **bản thiết kế**. Bản Excel v0.1 theo thiết kế đã tạo ngày 02/11/2026 (sheet Hướng dẫn, 12 sheet dữ liệu và Báo cáo, sheet Danh mục), chờ đưa lên Drive của trung tâm và dùng thử.
 
 ---
 
@@ -55,7 +55,7 @@
 
 **10. Phản ánh:** Mã phản ánh · Ngày giờ nhận · Kênh · Mã học viên / lớp · Loại · Mức (P0 – P3) · Mô tả · Người xử lý · Phương án 1 · Phương án 2 · Hẹn trả lời · Kết quả · Ngày đóng · Phụ huynh xác nhận.
 
-**11. Vật phẩm:** Ngày · Loại · Lớp · Số lượng xuất · Danh sách học viên nhận · Số lượng hoàn kho · Tồn sau giao dịch · Người thực hiện.
+**11. Vật phẩm:** Ngày · Loại · Lớp · Số lượng nhập kho · Số lượng xuất · Danh sách học viên nhận · Số lượng hoàn kho · Tồn sau giao dịch · Người thực hiện.
 
 **12. Báo cáo** (so sánh tuần này với tuần trước): số lớp đang chạy · sĩ số · chuyên cần · tỷ lệ nộp bài · học bù đúng hạn · học viên chờ lớp và số ngày chờ trung bình · học viên sắp hết hạn bảo lưu · phản ánh đang mở · tỷ lệ hoàn thành khóa · tái tục.
 
