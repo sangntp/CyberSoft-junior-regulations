@@ -186,6 +186,7 @@ Quy trình chi tiết theo vòng đời lớp học (lịch khai giảng, học 
 
 ### Các việc phối hợp khác của Sales
 
+- **Chốt lớp theo lịch:** Chỉ chốt lớp theo lịch khai giảng đã công bố; lớp ngoài lịch chỉ mở khi Trưởng phòng Học vụ và Trưởng Sale cùng đồng ý.
 - **Lớp chưa đủ sĩ số:** Khi CEO và Trưởng phòng Học vụ quyết định dời khai giảng, Sale báo riêng cho từng Phụ huynh.
 - **Tái tục (L6):** Nhận Đề xuất lộ trình học tiếp từ Giáo vụ sau Demo Day để tư vấn Phụ huynh đăng ký khóa tiếp theo.
 - **Chuyển nhượng cho người khác:** Hỗ trợ giới thiệu người nhận trong thời hạn giữ suất (Điều 2.4 Nội quy).
@@ -228,7 +229,7 @@ Quy trình chi tiết theo vòng đời lớp học (lịch khai giảng, học 
 
 - **Thời hạn:** Theo SLA-12.
 - **Hành động tiêu chuẩn:**
-  1. Thêm Phụ huynh và học viên vào nhóm Zalo lớp chính thức (thành phần nhóm gồm: Giáo vụ quản lý, Giảng viên chính, Mentor, Phụ huynh và học viên trong lớp).
+  1. Thêm Phụ huynh và học viên vào nhóm Zalo lớp chính thức (thành phần nhóm gồm: Giáo vụ quản lý, Giảng viên chính, Mentor, Sale đã tư vấn, Phụ huynh và học viên trong lớp).
   2. Gửi tin chào mừng theo Mẫu 1 của Bộ mẫu tin nhắn Zalo: thời khóa biểu, phòng học tại cơ sở hoặc link phòng học cố định.
   3. Đính kèm link văn bản `01-noi-quy-nhap-hoc.md` để Phụ huynh lưu trữ tra cứu.
   4. Nhắc học viên mang laptop kèm bộ sạc và cài đặt phần mềm học tập theo hướng dẫn trước buổi 1.
@@ -245,7 +246,7 @@ Quy trình chi tiết theo vòng đời lớp học (lịch khai giảng, học 
 ### Bước 6: Điều phối học bù theo nhóm (Điều 6 Nội quy)
 
 - **Định mức:** Cứ 01 - 02 buổi vắng có lý do được hỗ trợ 01 buổi học bù; tối đa 03 buổi học bù / khóa.
-- **Tổ chức:** Gom các học viên cần bù cùng nội dung vào một buổi học bù nhóm 30 - 60 phút; phối hợp Đào tạo bố trí người dạy bù. Học viên vắng không lý do được tham gia buổi bù nhóm khi có lịch bù cho nội dung đó.
+- **Tổ chức:** Gom các học viên cần bù cùng nội dung vào một buổi học bù nhóm 30 - 60 phút; phối hợp Đào tạo bố trí người dạy bù. Không xếp được buổi bù nhóm thì dùng thang hỗ trợ tại nhánh Vận hành (trang Xếp lớp, học bù, Mục 2.2), không thu thêm phí. Học viên vắng không lý do được tham gia buổi bù nhóm khi có lịch bù cho nội dung đó.
 - **Bản ghi buổi học:** Chỉ cấp cho học viên vắng có lý do nhưng không tham gia được buổi bù, và chỉ khi buổi học có ghi hình. Lớp Offline không mặc định ghi hình; chỉ ghi hình khi Trưởng Đào tạo yêu cầu. Không cấp bản ghi cho học viên vắng không lý do hoặc học viên đã có mặt.
 - **Từ buổi vắng thứ 4:** Chỉ cung cấp tài liệu và bản ghi (nếu có), không xếp thêm buổi bù.
 
@@ -330,6 +331,7 @@ Quy trình chi tiết theo vòng đời lớp học (lịch khai giảng, học 
 ### Bước 2: Giáo viên nghỉ và dạy thay
 
 - **Giáo viên báo nghỉ:** Báo **Đào tạo trước, Giáo vụ sau** (bắt buộc báo cả hai). Thời hạn báo nghỉ theo SLA-19; báo muộn hơn thời hạn này là nghỉ đột xuất.
+- **Dạy thay:** Chỉ chấp nhận khi giáo viên chính nghỉ vì lý do bất khả kháng; không giới hạn số buổi. Trường hợp không bất khả kháng, Trưởng Đào tạo nhắc nhở và ghi Sổ lỗi vận hành.
 - **Đào tạo:** Tìm giáo viên dạy thay; báo Giáo vụ tên người dạy thay để ghi nhận ca dạy thay (phục vụ đối soát công).
 - **Không tìm được người thay:** Báo ngay Giáo vụ. Giáo vụ xử lý phía học viên: thông báo nhóm Zalo, dời buổi theo Bước 7 Vai trò 2 hoặc xếp học bù.
 
@@ -344,7 +346,7 @@ Quy trình chi tiết theo vòng đời lớp học (lịch khai giảng, học 
 - Theo dõi giáo viên nhận xét buổi học đúng hạn (theo SLA-27) và chấm bài đúng hạn (theo SLA-20).
 - Cùng Giáo vụ giám sát nhận xét giáo viên đăng trong nhóm Zalo lớp; yêu cầu giáo viên sửa hoặc đăng lại khi có sai sót.
 - Thời điểm học viên nộp bài phải được ghi nhận (trên LMS; giai đoạn dùng Excel thì ghi trong Excel quản lý lớp) để giáo viên biết bài nào nộp sớm và ưu tiên chấm trước.
-- Dự giờ ngẫu nhiên lớp Offline và Online cùng Trưởng phòng Học vụ.
+- Dự giờ cùng Trưởng phòng Học vụ, mỗi lớp ít nhất 01 lần mỗi khóa.
 - Xử lý phản ánh của Phụ huynh liên quan chuyên môn hoặc giáo viên do Giáo vụ chuyển sang.
 
 ### Bước 5: Lỗi học liệu
@@ -412,7 +414,7 @@ Quy trình chi tiết theo vòng đời lớp học (lịch khai giảng, học 
 
 ### Bước 2: Quản trị chất lượng và khảo sát Phụ huynh
 
-- Định kỳ dự giờ ngẫu nhiên các lớp Offline và Online để kiểm tra phương pháp sư phạm, nhịp nghỉ Pomodoro và kỷ luật an toàn số.
+- Dự giờ mỗi lớp ít nhất 01 lần mỗi khóa (Offline, Online hoặc qua Meet) để kiểm tra phương pháp sư phạm, nhịp nghỉ Pomodoro và kỷ luật an toàn số.
 - Theo dõi kết quả khảo sát Phụ huynh sau buổi Trải nghiệm, sau mỗi Capstone và sau Demo Day. Phiếu có điểm ≤ 6/10: liên hệ Phụ huynh theo SLA-21.
 
 ### Bước 3: Phê duyệt và xử lý các trường hợp ngoại lệ

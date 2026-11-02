@@ -41,7 +41,7 @@
 | **SLA-16** | Sales hoàn thiện hồ sơ bị Giáo vụ trả lại | 30 phút | Sales |
 | **SLA-17** | Kiểm tra sĩ số trước khai giảng | 07 ngày và 03 ngày trước khai giảng | Giáo vụ |
 | **SLA-18** | Liên hệ Phụ huynh khi học viên vắng không lý do | Trong 24 giờ | Giáo vụ |
-| **SLA-19** | Giáo viên báo nghỉ | Trước tối thiểu 24 giờ; muộn hơn là nghỉ đột xuất | Giáo viên |
+| **SLA-19** | Giáo viên báo nghỉ | Nghỉ biết trước (việc riêng đã lên kế hoạch): trước tối thiểu 03 ngày. Nghỉ phát sinh (ốm, việc gấp): trước tối thiểu 24 giờ. Báo muộn hơn là nghỉ đột xuất | Giáo viên |
 | **SLA-20** | Chấm bài tập | Trong 7 ngày sau khi học viên nộp và trước buổi học tiếp theo; ưu tiên bài nộp sớm | Giáo viên, Đào tạo |
 | **SLA-27** | Nhận xét buổi học | Trong 48 giờ sau buổi học | Giáo viên, Đào tạo |
 | **SLA-26** | Giáo viên có mặt trước giờ học | 15 phút | Giáo viên |
@@ -62,7 +62,7 @@
 | **SLA-24** | Bật bộ phát 4G/5G dự phòng khi mất mạng | Trong 10 phút | Giáo vụ |
 | **SLA-25** | Mất điện kéo dài: cho nghỉ sớm và dời buổi | Quá 30 phút | Giáo vụ, Giáo viên |
 
-### A5. Bổ sung cho nhánh Vận hành (đề xuất ngày 28/10/2026, chờ duyệt)
+### A5. Bổ sung cho nhánh Vận hành (bổ sung 28/10/2026, Trưởng phòng Học vụ duyệt tạm 02/11/2026)
 
 Các mã dưới đây được trích tại các trang trong thư mục `van-hanh/`.
 
@@ -73,7 +73,7 @@ Các mã dưới đây được trích tại các trang trong thư mục `van-ha
 | **SLA-31** | Gọi chào Phụ huynh trước khai giảng | >= 36 giờ trước khai giảng | Giáo vụ |
 | **SLA-32** | Gọi Phụ huynh khi học viên chưa vào lớp và chưa báo vắng | 10 phút sau giờ bắt đầu | Giáo vụ |
 | **SLA-33** | Truyền đạt nội dung buổi gặp đầu khóa cho Phụ huynh vắng | Trong 24 giờ | Giáo vụ |
-| **SLA-34** | Hoàn thành học bù | Trước buổi học kế tiếp; nếu không kịp thì trong 07 ngày kể từ buổi vắng | Giáo vụ, Đào tạo |
+| **SLA-34** | Học viên vắng được học bù xong | Trước buổi học tiếp theo của lớp; nếu không xếp kịp thì chậm nhất 07 ngày kể từ buổi vắng | Giáo vụ, Đào tạo |
 | **SLA-35** | Đề xuất thêm học viên vào lớp đã khai giảng | Chậm nhất 12 giờ trước buổi học kế tiếp của lớp | Sales, Giáo vụ |
 | **SLA-36** | Phản hồi yêu cầu chuyển lớp | Trong 02 ngày làm việc; chưa có lớp phù hợp thì hẹn kết quả trong tối đa 15 ngày | Giáo vụ |
 | **SLA-37** | Phản hồi đầu tiên với tin nhắn, cuộc gọi nhỡ của Phụ huynh | Trong 60 phút, trong giờ làm việc | Giáo vụ |

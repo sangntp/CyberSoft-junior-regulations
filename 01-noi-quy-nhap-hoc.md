@@ -30,6 +30,7 @@
 | CyberSoft thay đổi lịch học | Thông báo trước tối thiểu 07 ngày (trừ bất khả kháng) | 3.4 |
 | Bận dài ngày (khóa lẻ) | Bảo lưu tối đa 06 tháng, 01 lần, khi lớp chưa quá 50% số buổi | 2.3.1 |
 | Học theo gói Combo | Không bảo lưu lẻ; hoàn thành trong thời hạn tối đa của gói | 2.3.2 |
+| Tự nghỉ, không liên lạc được | Rút khỏi lớp sau 15 ngày liên hệ; liên hệ lại trong 30 ngày được xếp lại lớp hoặc bảo lưu theo điều kiện | 2.3.4 |
 | Không muốn học nữa: trước khai giảng hoặc sau buổi 1 của khóa đầu tiên | Báo trước buổi 2 của khóa đầu tiên: hoàn 100% học phí đã đóng | 2.2 |
 | Muốn dừng học từ buổi 2 trở đi | Không hoàn phí; có thể bảo lưu, chuyển lớp hoặc chuyển nhượng theo điều kiện | 2.3, 2.4, 3 |
 | Đi du học / định cư | Hoàn 80% học phí các buổi chưa học | 2.2 |
@@ -81,7 +82,7 @@ Học phí là khoản phí dịch vụ giáo dục đào tạo công nghệ tha
 
 ### 2.3. Bảo lưu học phí và Quỹ thời gian Combo
 
-- **2.3.1. Đăng ký Khóa lẻ:** Lớp học chưa diễn ra quá 50% tổng số buổi; chỉ bảo lưu giá trị các buổi học còn lại; thông báo trước 48 giờ làm việc cho Giáo vụ; thời hạn tối đa 06 tháng; chỉ làm thủ tục bảo lưu 01 lần duy nhất.
+- **2.3.1. Đăng ký Khóa lẻ:** Lớp học chưa diễn ra quá 50% tổng số buổi; chỉ bảo lưu giá trị các buổi học còn lại; thông báo trước 48 giờ làm việc cho Giáo vụ; thời hạn tối đa 06 tháng; chỉ làm thủ tục bảo lưu 01 lần duy nhất. Hết thời hạn bảo lưu, CyberSoft thông báo cho Phụ huynh 02 lần (ngày hết hạn và sau 15 ngày); sau 30 ngày kể từ ngày hết hạn mà Phụ huynh không liên hệ xếp lớp, giá trị học phí bảo lưu hết hiệu lực. Trường hợp có lý do chính đáng, Phụ huynh được gia hạn 01 lần, tối đa 60 ngày.
 - **2.3.2. Đăng ký theo Gói Lộ trình (Combo):** Học viên tham gia Combo **không áp dụng bảo lưu lẻ từng Khóa**. CyberSoft áp dụng quỹ thời gian đệm linh hoạt, Phụ huynh chỉ cần đảm bảo hoàn thành toàn bộ chương trình trong thời hạn tối đa sau:
 
 | Chương trình đào tạo | Quy mô gói Combo | Thời lượng thực học chuẩn | Thời hạn tối đa hoàn thành gói Combo |
@@ -99,6 +100,7 @@ Học phí là khoản phí dịch vụ giáo dục đào tạo công nghệ tha
 *Lưu ý: Thời hạn hoàn thành các gói Combo có thể được CyberSoft điều chỉnh theo chính sách hiện hành. Gói đã đăng ký áp dụng thời hạn được thông báo tại thời điểm đăng ký.*
 
 - **2.3.3. Quay lại sau bảo lưu:** Nếu chương trình đào tạo đã được nâng cấp phiên bản mới, Học viên được xếp vào phiên bản tương đương.
+- **2.3.4. Học viên tự nghỉ, không liên lạc được:** Học viên tự nghỉ học không được tính là bảo lưu (Điều 2.1). Sau 15 ngày CyberSoft liên hệ mà không liên lạc được với Phụ huynh, Học viên được rút khỏi lớp. Nếu Phụ huynh liên hệ lại trong 30 ngày tiếp theo, Học viên được xếp vào lớp cùng tiến độ (nếu có) hoặc làm thủ tục bảo lưu khi lớp cũ chưa quá 50% số buổi; quá thời hạn này, giá trị học phí các buổi chưa học hết hiệu lực.
 - *Lưu ý thay đổi tần suất:* Nếu Học viên đăng ký học tăng cường (ví dụ 2 buổi/tuần) hoặc giãn lịch, Phòng Giáo vụ sẽ tính toán và xác lập lại hạn chót hoàn thành khóa học tỷ lệ thuận với số tuần học thực tế.
 
 > **Ví dụ Bảo lưu & Khung thời gian Combo:**
@@ -174,7 +176,7 @@ Không quy đổi tiền mặt, không hoàn trả, không chuyển nhượng, k
 ## ĐIỀU 6. ĐIỂM DANH VÀ CHÍNH SÁCH HỌC BÙ
 
 - **6.1. Xin phép vắng:** Báo trước tối thiểu 02 tiếng trước giờ vào lớp. Buổi vắng được tính là **vắng có lý do** khi Phụ huynh báo đúng hạn này, hoặc báo trong vòng 24 giờ đối với trường hợp khẩn cấp (ốm đột xuất, tai nạn, việc gia đình khẩn cấp). Nghỉ không báo là vắng không lý do.
-- **6.2. Học bù theo nhóm:** Cứ 01-02 buổi vắng có lý do được hỗ trợ 01 buổi học bù. Buổi học bù được tổ chức theo nhóm, gom các học viên cần bù cùng nội dung, thời lượng 30 - 60 phút/buổi. Học viên vắng không lý do cũng được tham gia buổi học bù nhóm khi có lịch bù cho nội dung đó. Tối đa **03 buổi học bù / 01 Khóa**. Buổi học bù đã được xác nhận nhưng Học viên tiếp tục vắng mặt được tính là đã sử dụng quyền học bù của buổi vắng đó, trừ trường hợp bất khả kháng được CyberSoft chấp thuận.
+- **6.2. Học bù theo nhóm:** Cứ 01-02 buổi vắng có lý do được hỗ trợ 01 buổi học bù. Buổi học bù được tổ chức theo nhóm, gom các học viên cần bù cùng nội dung, thời lượng 30 - 60 phút/buổi; khi không xếp được buổi bù nhóm, CyberSoft sắp xếp hình thức bù phù hợp khác (học ghép lớp cùng khóa, hẹn buổi riêng) và không thu thêm phí. Học viên vắng không lý do cũng được tham gia buổi học bù nhóm khi có lịch bù cho nội dung đó. Tối đa **03 buổi học bù / 01 Khóa**. Buổi học bù đã được xác nhận nhưng Học viên tiếp tục vắng mặt được tính là đã sử dụng quyền học bù của buổi vắng đó, trừ trường hợp bất khả kháng được CyberSoft chấp thuận.
 - **6.3. Bản ghi buổi học:** Học viên vắng có lý do nhưng không tham gia được buổi học bù sẽ được cấp quyền xem lại bản ghi hình của buổi vắng, nếu buổi học đó có ghi hình. Lớp học trực tiếp (Offline) không mặc định ghi hình. Bản ghi không cấp cho học viên vắng không lý do và học viên đã có mặt tại buổi học.
 *(Lưu ý: Từ buổi vắng thứ 4 trở đi, trung tâm chỉ hỗ trợ cung cấp tài liệu và bản ghi buổi học nếu có, không bố trí thêm buổi học bù).*
 
