@@ -61,7 +61,7 @@ Dùng đúng tên vai trò tại `02-huong-dan-thuc-hien.md`, Mục 0.1: CEO, Tr
 | --- | --- | --- |
 | 28/10/2026 | Tạo bản nháp 0.1 nhánh Vận hành (15 trang) | Chưa hiệu lực, chờ duyệt |
 | 02/11/2026 | Bản nháp 0.2: Trưởng phòng Học vụ duyệt 16 đề xuất D1 – D16 (xem trang "Đề xuất & quyết định"); thêm thang hỗ trợ học bù; bổ sung Điều 2.3.1, 2.3.4, 6.2 Nội quy | Áp dụng tạm; chờ CEO ký ban hành |
-| 02/11/2026 | Điền hotline 0961 05 10 14; soạn 12 mẫu tin nhắn bổ sung (Mẫu 9 – 20, bản nháp) | Mẫu tin chờ Trưởng phòng Học vụ duyệt |
+| 02/11/2026 | Điền hotline 0961 05 10 14; soạn 12 mẫu tin nhắn bổ sung (Mẫu 9 – 20) | Mẫu tin đã duyệt 03/11/2026 |
 
 Mỗi thay đổi sau khi ban hành được ghi thêm một dòng: ngày, nội dung thay đổi, ngày bắt đầu áp dụng, bộ phận bị ảnh hưởng.
 

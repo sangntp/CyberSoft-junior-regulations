@@ -29,7 +29,7 @@
 
 ## 2. Mẫu tin nhắn bổ sung
 
-Bộ mẫu tin nhắn Zalo có 8 mẫu cho nhóm lớp (Mẫu 1 – 8, đã duyệt). Ngày 02/11/2026 đã soạn thêm 12 mẫu cho các tình huống dưới đây (Mẫu 9 – 20, bản nháp chờ Trưởng phòng Học vụ duyệt), phần lớn là **tin nhắn riêng** cho từng Phụ huynh:
+Bộ mẫu tin nhắn Zalo có 8 mẫu cho nhóm lớp (Mẫu 1 – 8, đã duyệt). Ngày 02/11/2026 đã soạn thêm 12 mẫu cho các tình huống dưới đây (Mẫu 9 – 20, Trưởng phòng Học vụ duyệt ngày 03/11/2026), phần lớn là **tin nhắn riêng** cho từng Phụ huynh:
 
 | Mẫu | Tình huống | Người gửi | Kênh |
 | --- | --- | --- | --- |
