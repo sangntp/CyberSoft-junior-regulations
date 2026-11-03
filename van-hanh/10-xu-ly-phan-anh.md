@@ -6,7 +6,7 @@
 
 ## 1. Kênh tiếp nhận
 
-- Kênh chính thức theo Điều 16 Nội quy: Hotline 0961 05 10 14, Zalo OA, Văn phòng quản lý lớp / Trưởng bộ phận Giáo vụ.
+- Kênh chính thức theo Điều 16 Nội quy: Hotline 0961 05 10 14, Zalo OA (https://zalo.me/1427277038490183753), Văn phòng quản lý lớp / Trưởng bộ phận Giáo vụ.
 - Phản ánh trong nhóm Zalo lớp: Giáo vụ xác nhận đã tiếp nhận bằng một câu trong nhóm, sau đó trao đổi riêng với Phụ huynh (`02-huong-dan-thuc-hien.md`, Vai trò 2, Bước 11).
 - Phản ánh qua giáo viên, Sale: người nhận chuyển cho Giáo vụ ngay.
 
