@@ -279,7 +279,7 @@ Học viên được công nhận hoàn thành khóa học khi đạt đủ 3 ti
 
 - **16.1. Kênh tiếp nhận chính thức:** Mọi phản ánh, ý kiến đóng góp hoặc khiếu nại của Phụ huynh chỉ được xử lý thông qua 3 kênh chính thức:
   * Hotline Chăm Sóc Khách Hàng CyberSoft: 0961 05 10 14
-  * Kênh Zalo Doanh Nghiệp: Zalo OA
+  * Kênh Zalo Doanh Nghiệp (Zalo OA): https://zalo.me/1427277038490183753
   * Văn phòng Quản lý Lớp học / Trưởng bộ phận Giáo vụ trực tiếp tại cơ sở.
 - **16.2. Cam kết thời gian xử lý:** Mọi khiếu nại sẽ được tiếp nhận và xử lý dứt điểm theo quy trình chuẩn trong vòng **48 đến 72 giờ làm việc**.
 
