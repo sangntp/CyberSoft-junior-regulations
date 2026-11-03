@@ -17,7 +17,7 @@
 | **D7** | Học viên tự nghỉ, mất liên lạc sau 15 ngày dù đã liên hệ đủ quy trình: rút khỏi lớp, ghi Nghỉ ngang. Phụ huynh liên hệ lại trong 30 ngày thì xếp lại lớp, hoặc bảo lưu nếu lớp cũ học chưa quá 50%; sau thời hạn đó giá trị khóa học hết hiệu lực | Đã duyệt | `01-noi-quy-nhap-hoc.md` (Điều 2.3.4 mới); trang "Biến động học viên" |
 | **D8** | Buổi vá (30 – 60 phút) trước Demo Day cho học viên chưa hoàn thành sản phẩm; tính công giáo viên nếu việc chậm không do lỗi giáo viên, Trưởng Đào tạo xác nhận | Đã duyệt | Trang "Trong khóa học", "Demo Day & kết thúc khóa", "Kiểm soát chất lượng" |
 | **D9** | Lớp tăng cường có thu phí (1 – 1 hoặc 1 – 2, qua Meet) | **Bỏ** – thay bằng thang hỗ trợ tại D4, không thu thêm phí | Không áp dụng |
-| **D10** | Kênh Giáo vụ tạm thời: hotline chung của trung tâm và Zalo của một số nhân viên được chỉ định | Đã duyệt tạm (hotline 0961 05 10 14; chờ Zalo chung) | Trang "Zalo & công cụ" |
+| **D10** | Kênh Giáo vụ tạm thời: hotline 0961 05 10 14 và Zalo Giáo vụ (do một số nhân viên được chỉ định đứng tên) | Đã duyệt tạm (chờ lập Zalo Giáo vụ chính thức) | Trang "Zalo & công cụ" |
 | **D11** | Sale đã tư vấn là thành viên nhóm Zalo lớp để phối hợp tái tục | Đã duyệt | `02-huong-dan-thuc-hien.md` (Vai trò 2, Bước 4); trang "Zalo & công cụ" |
 | **D12** | Xử lý theo Sổ lỗi vận hành, 4 mức: Không tính / Nhắc nhở / Trao đổi trực tiếp / Đưa vào đánh giá tháng; không đưa mức phạt tiền vào nhánh Vận hành. Nhận xét học viên: Giáo vụ thu từ Giáo viên, chưa có hoặc chưa rõ thì nhắc lại; đã đủ thì truyền đạt lại cho Phụ huynh | Đã duyệt tạm | Trang "Kiểm soát chất lượng", "Trong khóa học", "Quy định giáo viên" |
 | **D13** | Dạy thay chỉ khi bất khả kháng, không giới hạn số buổi; trường hợp khác nhắc nhở và ghi Sổ lỗi | Đã duyệt (điều chỉnh: bỏ giới hạn 02 buổi) | `02-huong-dan-thuc-hien.md` (Vai trò 3, Bước 2); trang "Quy định giáo viên" |
@@ -25,7 +25,7 @@
 | **D15** | Dự giờ mỗi lớp ít nhất 01 lần mỗi khóa | Đã duyệt | `02-huong-dan-thuc-hien.md` (Vai trò 3, Vai trò 5); trang "Kiểm soát chất lượng" |
 | **D16** | Các thời hạn SLA-29 đến SLA-43 và các chỉ số bổ sung; SLA-34 viết lại: học viên vắng được học bù xong trước buổi học tiếp theo của lớp, nếu không xếp kịp thì chậm nhất 07 ngày kể từ buổi vắng | Đã duyệt tạm | `03-sla-noi-bo.md` (A5, Phần C) |
 
-**Việc còn chờ CEO:** ký ban hành toàn bộ nhánh Vận hành; cấp Zalo chung cho Giáo vụ (D10) và Zalo OA chính thức.
+**Việc còn chờ CEO:** ký ban hành toàn bộ nhánh Vận hành; lập Zalo Giáo vụ (D10) và Zalo OA.
 
 ## 2. Mẫu tin nhắn bổ sung
 
