@@ -237,7 +237,7 @@ Quy trình chi tiết theo vòng đời lớp học (lịch khai giảng, học 
 
 ### Bước 5: Điểm danh và chuyên cần
 
-- **Điểm danh học viên:** Giáo vụ ưu tiên điểm danh học viên. Giáo viên có cùng chức năng và hỗ trợ khi Giáo vụ không thực hiện được. Kết quả cuối cùng trên hệ thống là kết quả chính thức (Mục 0.4).
+- **Điểm danh học viên:** Giáo vụ và giáo viên đều điểm danh học viên được, không bên nào ưu tiên. Giáo viên (giảng viên, mentor) điểm danh từ 5 phút trước giờ học đến 24 giờ sau buổi; Giáo vụ điểm danh và sửa được mọi lúc. Kết quả cuối cùng trên hệ thống là kết quả chính thức (Mục 0.4).
 - **Điểm danh giáo viên:** Do Giáo viên hoặc Đào tạo thực hiện.
 - **Tiếp nhận báo vắng:** Ghi nhận vắng có lý do khi Phụ huynh báo trước >= 2 tiếng, hoặc trong 24 giờ với trường hợp khẩn cấp.
 - **Vắng không lý do:** Giáo vụ liên hệ Phụ huynh theo SLA-18 để tìm hiểu lý do.
@@ -382,7 +382,7 @@ Quy trình chi tiết theo vòng đời lớp học (lịch khai giảng, học 
 
 ### Bước 4: Điểm danh và nhận xét học viên
 
-- Hỗ trợ điểm danh học viên khi Giáo vụ không thực hiện được; tự điểm danh giáo viên.
+- Điểm danh học viên từ 5 phút trước giờ học đến 24 giờ sau buổi; quá thời gian này, Giáo vụ điểm danh hoặc sửa.
 - Nhận xét sau mỗi buổi học theo SLA-27, do Giáo viên chính hoặc Mentor tự đăng trên hai kênh:
   * **LMS:** Nhận xét cụ thể từng học viên về mức độ tiếp thu, thái độ hợp tác và tiến độ hoàn thành bài tập; tích chọn đủ các tiêu chí.
   * **Nhóm Zalo lớp:** Nhận xét chung cả lớp theo Mẫu 8 của Bộ mẫu tin nhắn Zalo; không nhận xét chi tiết từng học viên; buổi có sản phẩm vật lý gửi kèm hình ảnh hoặc video. Không đăng sau 22 giờ.
@@ -497,7 +497,7 @@ Phân loại sự cố theo 4 mức P0 (khẩn cấp) đến P3 (thấp). Ví d�
 | **Lớp chưa đủ sĩ số tối thiểu** | **Giáo vụ** | Trưởng phòng Học vụ, CEO, Trưởng Sale | Giáo vụ báo Trưởng phòng Học vụ, cc CEO và Trưởng Sale. CEO và Trưởng phòng Học vụ quyết định; nếu dời lớp, Sales báo riêng từng Phụ huynh. |
 | **Học viên chưa hoàn tất học phí khi sắp đến buổi 2** | **Sales** | Giáo vụ, Trưởng phòng Học vụ | Sales đốc thúc Phụ huynh và cập nhật trạng thái cho Giáo vụ. Đến buổi 2 chưa hoàn tất: Trưởng Sale và Trưởng phòng Học vụ quyết định. |
 | **Giáo viên báo nghỉ đột xuất** | **Đào tạo** | Giáo vụ | Giáo viên báo Đào tạo trước, Giáo vụ sau. Đào tạo tìm người dạy thay; không có người thay thì Giáo vụ báo nhóm Zalo và dời buổi hoặc xếp học bù. |
-| **Điểm danh giữa Giáo vụ và giáo viên khác nhau** | **Giáo vụ** | Đào tạo | Lấy kết quả cuối cùng trên hệ thống; sai sót truy vết qua log. Giáo vụ ưu tiên điểm danh học viên; Giáo viên/Đào tạo điểm danh giáo viên. |
+| **Điểm danh giữa Giáo vụ và giáo viên khác nhau** | **Giáo vụ** | Đào tạo | Lấy kết quả cuối cùng trên hệ thống; sai sót truy vết qua log. Giáo vụ và giáo viên đều điểm danh học viên được. |
 | **Phụ huynh xin bảo lưu, chuyển nhượng hoặc hoàn phí** | **Giáo vụ** | Trưởng phòng Học vụ, Kế toán, CEO | Giáo vụ tiếp nhận, kiểm điều kiện theo Nội quy, lập báo cáo; duyệt theo bảng Vai trò 2, Bước 8. |
 | **Phụ huynh phản ánh về giáo viên trong nhóm Zalo** | **Giáo vụ** | Đào tạo | Giáo vụ xác nhận tiếp nhận bằng một câu trong nhóm, trao đổi riêng với Phụ huynh; nội dung chuyên môn chuyển Đào tạo xử lý. |
 | **Giáo viên phát hiện lỗi slide, đề bài** | **Đào tạo** | Biên soạn | Giáo viên báo Đào tạo; Đào tạo gom lỗi gửi Biên soạn. Giáo vụ không xử lý. |
