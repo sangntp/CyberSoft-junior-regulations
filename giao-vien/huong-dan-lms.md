@@ -23,7 +23,7 @@
 
 [Mở trên LMS: Bàn làm việc](https://lmskid.cybersoft.edu.vn/giang-day)
 
-![Bàn làm việc giảng dạy với bảng thông báo đang mở](giao-vien/img/01-ban-lam-viec.jpg)
+![Bàn làm việc giảng dạy với bảng thông báo đang mở](img/01-ban-lam-viec.jpg)
 
 ### Tài nguyên buổi
 
@@ -34,7 +34,7 @@
 
 [Mở trên LMS: Tài nguyên buổi](https://lmskid.cybersoft.edu.vn/giang-day/lop?tab=taiNguyen)
 
-![Tài nguyên CyberSoft của buổi và ô phản hồi](giao-vien/img/02-tai-nguyen.jpg)
+![Tài nguyên CyberSoft của buổi và ô phản hồi](img/02-tai-nguyen.jpg)
 
 ---
 
@@ -49,7 +49,7 @@
 
 [Mở trên LMS: Khởi động](https://lmskid.cybersoft.edu.vn/giang-day/lop?tab=khoiDong)
 
-![Bài khởi động của buổi và danh sách em đã khởi động](giao-vien/img/03-khoi-dong.jpg)
+![Bài khởi động của buổi và danh sách em đã khởi động](img/03-khoi-dong.jpg)
 
 ### Điểm danh
 
@@ -60,7 +60,7 @@
 
 [Mở trên LMS: Điểm danh](https://lmskid.cybersoft.edu.vn/giang-day/lop?tab=diemDanh)
 
-![Các nút Có mặt, Đi muộn, Vắng có phép, Vắng và nút Lưu điểm danh](giao-vien/img/04-diem-danh.jpg)
+![Các nút Có mặt, Đi muộn, Vắng có phép, Vắng và nút Lưu điểm danh](img/04-diem-danh.jpg)
 
 ### Giao bài tập
 
@@ -71,7 +71,7 @@
 
 [Mở trên LMS: Giao bài tập](https://lmskid.cybersoft.edu.vn/giang-day/lop?tab=baiTap)
 
-![Biểu mẫu giao bài và bảng bài đã giao](giao-vien/img/05-giao-bai.jpg)
+![Biểu mẫu giao bài và bảng bài đã giao](img/05-giao-bai.jpg)
 
 ---
 
@@ -86,7 +86,7 @@
 
 [Mở trên LMS: Nhật ký buổi](https://lmskid.cybersoft.edu.vn/giang-day/lop?tab=nhatKy)
 
-![Ba ô nội dung nhật ký buổi và nút Đăng nhật ký](giao-vien/img/06-nhat-ky.jpg)
+![Ba ô nội dung nhật ký buổi và nút Đăng nhật ký](img/06-nhat-ky.jpg)
 
 ### Nhận xét buổi học
 
@@ -97,7 +97,7 @@
 
 [Mở trên LMS: Nhận xét](https://lmskid.cybersoft.edu.vn/giang-day/lop?tab=nhanXet)
 
-![Ô lời động viên và ô góp ý riêng cho phụ huynh của từng em](giao-vien/img/07-nhan-xet.jpg)
+![Ô lời động viên và ô góp ý riêng cho phụ huynh của từng em](img/07-nhan-xet.jpg)
 
 ### Ghi chú từng em
 
@@ -108,7 +108,7 @@
 
 [Mở trên LMS: Ghi chú từng em](https://lmskid.cybersoft.edu.vn/giang-day/lop?tab=ghiChu)
 
-![Tiến độ ghi chú của giáo viên, mentor và ô ghi chú nội bộ](giao-vien/img/08-ghi-chu.jpg)
+![Tiến độ ghi chú của giáo viên, mentor và ô ghi chú nội bộ](img/08-ghi-chu.jpg)
 
 ### Chấm bài và 5 năng lực
 
@@ -119,7 +119,7 @@
 
 [Mở trên LMS: Chấm bài](https://lmskid.cybersoft.edu.vn/giang-day/lop?tab=chamBai) · [5 năng lực](https://lmskid.cybersoft.edu.vn/giang-day/lop?tab=nangLuc)
 
-![Ba bằng chứng của bài nộp, chọn mức, nhận xét và nút Lưu chấm](giao-vien/img/09-cham-bai.jpg)
+![Ba bằng chứng của bài nộp, chọn mức, nhận xét và nút Lưu chấm](img/09-cham-bai.jpg)
 
 ---
 
@@ -134,7 +134,7 @@
 
 [Mở trên LMS: Dự án cuối khóa](https://lmskid.cybersoft.edu.vn/giang-day/lop?tab=duAn) · [Tổng kết](https://lmskid.cybersoft.edu.vn/giang-day/lop?tab=tongKet)
 
-![Tiến độ ba mốc dự án cuối khóa của từng học sinh](giao-vien/img/11-du-an.jpg)
+![Tiến độ ba mốc dự án cuối khóa của từng học sinh](img/11-du-an.jpg)
 
 ### Tài khoản, công dạy và báo nghỉ
 
@@ -145,9 +145,9 @@
 
 [Mở trên LMS: Tài khoản của tôi](https://lmskid.cybersoft.edu.vn/tai-khoan-cua-toi) · [Công của tôi](https://lmskid.cybersoft.edu.vn/giang-day/cham-cong)
 
-![Công của tôi: ca dạy trong tháng và trạng thái](giao-vien/img/13-cong.jpg)
+![Công của tôi: ca dạy trong tháng và trạng thái](img/13-cong.jpg)
 
-![Tài khoản của tôi: thông tin cá nhân và đổi mật khẩu](giao-vien/img/14-tai-khoan.jpg)
+![Tài khoản của tôi: thông tin cá nhân và đổi mật khẩu](img/14-tai-khoan.jpg)
 
 ---
 
