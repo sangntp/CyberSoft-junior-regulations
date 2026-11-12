@@ -1,0 +1,11 @@
+* [Trang chủ](/)
+* [01. Nội quy Nhập học & Học tập](01-noi-quy-nhap-hoc.md)
+* **02. Hướng dẫn dùng LMS (học viên, phụ huynh)**
+  * [Tổng quan](hoc-vien/huong-dan-lms.md)
+  * [1. Đăng nhập, thẻ QR, quên mật khẩu](hoc-vien/01-dang-nhap.md)
+  * [2. Học theo buổi](hoc-vien/02-hoc-theo-buoi.md)
+  * [3. Tự luyện](hoc-vien/03-tu-luyen.md)
+  * [4. Thành tích và huy hiệu](hoc-vien/04-thanh-tich.md)
+  * [5. Huy hiệu Thợ Săn Lỗi](hoc-vien/05-tho-san-loi.md)
+  * [6. Đổi quà thật](hoc-vien/06-doi-qua.md)
+  * [7. Dành cho phụ huynh](hoc-vien/07-phu-huynh.md)
